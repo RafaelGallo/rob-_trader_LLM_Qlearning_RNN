@@ -1,0 +1,3 @@
+Ticker: VALE3.SA
+Decisão: VENDER
+Justificativa: Tendência de queda consistente no preço de fechamento ao longo do período, indicando fraqueza no desempenho da ação.

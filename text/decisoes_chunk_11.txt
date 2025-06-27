@@ -1,0 +1,2083 @@
+Aqui estão as decisões para cada linha, baseadas em uma análise de preço e volume, simulando um agente financeiro:
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço com pequena variação.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta com volume crescente.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Continuação de alta com volume robusto.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Tendência de alta confirmada por volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena correção, volume em declínio.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Estabilização após leve correção.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda acentuada com alto volume, sinal de reversão.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Recuperação leve, mas incerta.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Consolidação após queda.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço em recuperação, mas volume baixo.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço com volume baixo, fraqueza.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda acentuada com alto volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Continuação da tendência de baixa com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena recuperação sem força para reverter.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda acentuada com volume muito alto.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Continuação da queda com volume alto.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Tentativa de estabilização.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Retomada da queda com volume moderado.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço lateral com volume baixo.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda acentuada com aumento de volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Reação de alta, mas sem volume expressivo.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Estabilização após alta.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço lateral.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta com volume expressivo.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Continuação da alta com volume forte.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena correção de lucros.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda com volume baixo, sinal de fraqueza.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Recuperação leve.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço lateral.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta, volume baixo.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena correção.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Leve queda, volume baixo.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Reação de alta, volume moderado.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Continuação da alta com volume crescente.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta com volume expressivo.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Continuação da alta com volume alto.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta, volume significativo.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Leve alta, volume diminuindo.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço lateral, volume constante.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta, volume baixo.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta com volume, reforça tendência.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda acentuada com volume, sinal de topo.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Continuação da queda com alto volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda, volume baixo, sem suporte.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Continuação da queda.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço lateral, volume baixo.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda, volume baixo.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Leve recuperação, volume moderado.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Recuperação forte com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda acentuada com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena recuperação, volume baixo.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda significativa com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Leve recuperação.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço lateral.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço lateral, volume baixo.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Leve queda.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Leve alta, volume baixo.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço lateral.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Estabilidade após alta.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta com volume alto.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda acentuada de abertura, alto volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Recuperação leve, volatilidade.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Continuação da recuperação.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume baixo.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço lateral.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena recuperação.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço com volume baixo.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço lateral.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta, volume baixo.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço lateral.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda acentuada com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Reação de alta com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Continuação da alta com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço lateral.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Reversão de alta com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Leve alta, volume baixo.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Continuação da alta.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda acentuada com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Continuação da queda.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Continuação da queda.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Reversão de alta com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena correção, volume moderado.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Leve alta.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço lateral.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena recuperação.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço lateral.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda acentuada.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Continuação da queda.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda forte com alto volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte recuperação de preço com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda acentuada de abertura e fechamento.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda acentuada com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Reversão de alta com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço lateral.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço lateral.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Continuação da alta com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Recuperação de alta com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço lateral.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda acentuada com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Continuação da queda.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta com alto volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Continuação da alta com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Continuação da alta com volume alto.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda acentuada de abertura e fechamento.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda, possível estabilização.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte recuperação com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Continuação da alta.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda, volume baixo.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço lateral.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Reversão de alta com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Continuação da alta.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda acentuada com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Recuperação de alta com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Recuperação de alta com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Leve queda.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Continuação da alta.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda acentuada com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Continuação da queda.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Continuação da queda.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Continuação da queda.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Continuação da queda.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Continuação da queda.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte recuperação com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Recuperação de alta com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Continuação da alta.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Recuperação de alta com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Continuação da alta.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda acentuada com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte recuperação de preço com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Continuação da alta com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Continuação da alta.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda acentuada.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda acentuada.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço lateral.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Continuação da queda.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Continuação da queda.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Reversão de alta com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Recuperação de alta com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Continuação da alta.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Continuação da alta.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda acentuada de abertura e fechamento.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena recuperação, volatilidade.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Reversão de alta com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda acentuada com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte recuperação de preço com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Continuação da alta.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Continuação da alta com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Continuação da alta.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço com volume alto.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Continuação da queda.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Continuação da queda.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda acentuada com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda acentuada com volume muito alto.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Continuação da queda.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Reversão de alta com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Continuação da alta.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Continuação da alta com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Continuação da alta.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena correção, volume baixo.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Pequena alta.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda acentuada com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda acentuada com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Continuação da queda.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Continuação da alta.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda acentuada com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Continuação da queda.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Continuação da queda.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Recuperação de alta com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Continuação da alta com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Recuperação de alta com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Continuação da alta.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço lateral.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda acentuada com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda acentuada com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Reversão de alta com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Continuação da alta com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Continuação da queda.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Continuação da queda.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Continuação da queda.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena recuperação, volume baixo.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Reversão de alta com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Continuação da alta.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Continuação da alta.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Continuação da alta com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda acentuada com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Continuação da queda.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Continuação da queda.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Continuação da queda.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda acentuada com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda acentuada com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Reversão de alta com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Continuação da alta com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Continuação da alta com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Continuação da queda.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda acentuada com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda acentuada com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Estabilidade de preço com volume alto.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Reversão de alta com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Continuação da alta com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Continuação da alta com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Continuação da alta.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda acentuada com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Reversão de alta com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Continuação da alta.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Continuação da alta com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Recuperação de alta com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Continuação da alta.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Continuação da alta com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda, volume baixo.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Leve queda.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Reversão de alta com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Continuação da alta.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço lateral.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Continuação da queda.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Continuação da queda com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Reversão de alta com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Continuação da alta.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Continuação da alta.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Continuação da queda.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Continuação da queda.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Continuação da queda.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Reversão de alta com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Continuação da alta.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Continuação da alta com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Continuação da alta.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Continuação da queda.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Continuação da queda.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Continuação da queda.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda acentuada com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Continuação da queda.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Reversão de alta com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Continuação da alta.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Continuação da queda.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Continuação da queda.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Continuação da queda.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Continuação da queda.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Continuação da queda.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Continuação da alta.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Continuação da alta.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço lateral.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda, volume baixo.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Continuação da alta.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda, volume baixo.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda acentuada com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Reversão de alta com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Continuação da alta com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Continuação da alta com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Continuação da alta.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda acentuada com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Continuação da queda.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Continuação da queda.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Continuação da queda.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Continuação da queda.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda acentuada com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Reversão de alta com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Continuação da queda.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Continuação da queda.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda acentuada com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte recuperação de preço com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Continuação da alta.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Continuação da alta com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda, volume baixo.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta com volume muito alto.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Continuação da alta com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Continuação da alta com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Leve alta, volume baixo.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Continuação da alta.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Recuperação de alta com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda acentuada com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Continuação da queda.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Continuação da queda.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Continuação da queda.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Continuação da queda.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Reversão de alta com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Continuação da alta.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Continuação da queda.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Reversão de alta com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda acentuada com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Continuação da queda.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço lateral.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda, volume baixo.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Continuação da alta.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Continuação da alta.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Continuação da queda.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Continuação da queda.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena recuperação, volume baixo.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Recuperação de alta com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Continuação da queda.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Continuação da queda.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda acentuada com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Continuação da queda.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Continuação da queda.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Continuação da alta.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Continuação da alta.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Continuação da alta.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda acentuada com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Continuação da queda.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Continuação da queda.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Continuação da queda.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Continuação da queda.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda acentuada com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte recuperação de preço com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Continuação da alta.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Continuação da alta.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Continuação da alta.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Continuação da alta com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta com volume muito alto.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço com volume.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Continuação da queda.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Continuação da queda.
+
+Ticker: BRFS3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Continuação da queda.
+
+Ticker: BRFS3.SA

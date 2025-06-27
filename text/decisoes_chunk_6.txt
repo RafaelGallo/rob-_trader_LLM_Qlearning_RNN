@@ -1,0 +1,4358 @@
+Como seu agente financeiro especialista em ações, analisarei cada linha de dados de PETR4.SA com base no preço de abertura (Open), preço de fechamento (Close) e volume (Volume), aplicando uma análise técnica simplificada para determinar a decisão.
+
+---
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Leve queda, sem tendência clara.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável, leve alta, sem forte convicção.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda acentuada com volume elevado indica pressão vendedora.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Leve recuperação com volume menor após forte queda, sem tendência clara.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta expressiva com volume alto indica forte interesse comprador.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Leve correção após alta significativa, sem reversão de tendência.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Duas quedas consecutivas indicam perda de força compradora.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena variação em baixa com volume reduzido, aguardando definição.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Leve alta com aumento de volume, mas ainda em faixa de volatilidade.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável com pouca variação, sem direcionamento claro.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Fechamento em alta com volume moderado, indicando possível recuperação.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda acentuada com volume baixo, mas mantém pressão de baixa.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta com volume alto, indicando reversão de tendência.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda significativa com volume alto, rompendo suporte anterior.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Continuação da queda com volume alto, reforçando tendência de baixa.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda acentuada com volume alto, confirmando forte movimento de baixa.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena variação em baixa com volume moderado, busca por suporte.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta com volume alto, indicando uma possível reação compradora.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Forte queda com volume muito alto, superando o dia anterior de alta.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta com volume alto, tentativa de recuperação após queda.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda significativa com volume muito alto, pressão vendedora persiste.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável com pouca variação, ainda em área de indecisão.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Fechamento igual à abertura com volume moderado, indecisão.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta expressiva com volume alto, indicando retomada da força compradora.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável, sem variação de fechamento, volume alto indica consolidação.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Forte queda com volume muito alto, indicando saída de investidores.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Continuação da queda com volume alto, tendência de baixa forte.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, consolidação em patamar mais baixo.
+
+Ticker: PETR4.SA
+Data: 2014-10-20
+Decisão: VENDER
+Justificativa: Queda expressiva com volume elevado, confirmando tendência de baixa.
+
+Ticker: PETR4.SA
+Data: 2014-10-21
+Decisão: MANTER
+Justificativa: Preço estável após forte queda, volume alto pode indicar busca por base.
+
+Ticker: PETR4.SA
+Data: 2014-10-22
+Decisão: VENDER
+Justificativa: Queda leve com volume moderado, continua o movimento de baixa.
+
+Ticker: PETR4.SA
+Data: 2014-10-23
+Decisão: VENDER
+Justificativa: Queda acentuada com volume alto, forte pressão vendedora.
+
+Ticker: PETR4.SA
+Data: 2014-10-24
+Decisão: COMPRAR
+Justificativa: Reação de alta com volume alto após fortes quedas, possível reversão.
+
+Ticker: PETR4.SA
+Data: 2014-10-27
+Decisão: COMPRAR
+Justificativa: Forte alta com volume altíssimo, confirma interesse comprador.
+
+Ticker: PETR4.SA
+Data: 2014-10-28
+Decisão: COMPRAR
+Justificativa: Continuação da alta, volume moderado, consolidação do movimento.
+
+Ticker: PETR4.SA
+Data: 2014-10-29
+Decisão: VENDER
+Justificativa: Queda com volume alto, sinal de reversão após dias de alta.
+
+Ticker: PETR4.SA
+Data: 2014-10-30
+Decisão: VENDER
+Justificativa: Queda leve com volume moderado, tendência de baixa se mantém.
+
+Ticker: PETR4.SA
+Data: 2014-10-31
+Decisão: COMPRAR
+Justificativa: Reversão de alta com volume moderado, recupera parte da perda.
+
+Ticker: PETR4.SA
+Data: 2014-11-03
+Decisão: MANTER
+Justificativa: Pequena queda com volume moderado, consolidação em patamar de alta.
+
+Ticker: PETR4.SA
+Data: 2014-11-04
+Decisão: MANTER
+Justificativa: Preço estável com pouca variação e volume moderado, indecisão.
+
+Ticker: PETR4.SA
+Data: 2014-11-05
+Decisão: MANTER
+Justificativa: Queda leve com volume baixo, sem forte pressão de venda.
+
+Ticker: PETR4.SA
+Data: 2014-11-06
+Decisão: VENDER
+Justificativa: Queda com volume moderado, sinal de continuação da baixa.
+
+Ticker: PETR4.SA
+Data: 2014-11-07
+Decisão: MANTER
+Justificativa: Preço estável, sem variação significativa, volume moderado.
+
+Ticker: PETR4.SA
+Data: 2014-11-10
+Decisão: VENDER
+Justificativa: Queda com volume moderado, indicando continuação da tendência de baixa.
+
+Ticker: PETR4.SA
+Data: 2014-11-11
+Decisão: COMPRAR
+Justificativa: Reversão de alta com volume baixo, pode ser ponto de suporte.
+
+Ticker: PETR4.SA
+Data: 2014-11-12
+Decisão: MANTER
+Justificativa: Leve alta com volume moderado, preço ainda em indefinição.
+
+Ticker: PETR4.SA
+Data: 2014-11-13
+Decisão: VENDER
+Justificativa: Queda expressiva com volume moderado, rompendo níveis anteriores.
+
+Ticker: PETR4.SA
+Data: 2014-11-14
+Decisão: COMPRAR
+Justificativa: Forte recuperação de alta com volume alto, possível fundo.
+
+Ticker: PETR4.SA
+Data: 2014-11-17
+Decisão: VENDER
+Justificativa: Queda com volume moderado após repique, mantém pressão de baixa.
+
+Ticker: PETR4.SA
+Data: 2014-11-18
+Decisão: VENDER
+Justificativa: Continuação da queda com volume moderado, tendência de baixa se mantém.
+
+Ticker: PETR4.SA
+Data: 2014-11-19
+Decisão: COMPRAR
+Justificativa: Reversão de alta com volume moderado, buscando novo suporte.
+
+Ticker: PETR4.SA
+Data: 2014-11-21
+Decisão: COMPRAR
+Justificativa: Forte alta com volume alto, confirmando interesse comprador.
+
+Ticker: PETR4.SA
+Data: 2014-11-24
+Decisão: MANTER
+Justificativa: Leve correção após alta, volume alto pode indicar realização.
+
+Ticker: PETR4.SA
+Data: 2014-11-25
+Decisão: MANTER
+Justificativa: Queda leve com volume alto, consolidando o movimento.
+
+Ticker: PETR4.SA
+Data: 2014-11-26
+Decisão: MANTER
+Justificativa: Preço estável com volume baixo, aguardando direcionamento.
+
+Ticker: PETR4.SA
+Data: 2014-11-27
+Decisão: VENDER
+Justificativa: Queda com volume moderado, pressionando para baixo.
+
+Ticker: PETR4.SA
+Data: 2014-11-28
+Decisão: VENDER
+Justificativa: Continuação da queda com volume moderado, tendência de baixa persistente.
+
+Ticker: PETR4.SA
+Data: 2014-12-01
+Decisão: VENDER
+Justificativa: Queda leve com volume altíssimo, indicando forte pressão.
+
+Ticker: PETR4.SA
+Data: 2014-12-02
+Decisão: VENDER
+Justificativa: Queda com volume altíssimo, confirma movimento de baixa intenso.
+
+Ticker: PETR4.SA
+Data: 2014-12-03
+Decisão: COMPRAR
+Justificativa: Reversão de alta com volume moderado, buscando respiro.
+
+Ticker: PETR4.SA
+Data: 2014-12-04
+Decisão: VENDER
+Justificativa: Queda com volume moderado, retomada da pressão vendedora.
+
+Ticker: PETR4.SA
+Data: 2014-12-05
+Decisão: VENDER
+Justificativa: Queda leve com volume alto, tendência de baixa continua.
+
+Ticker: PETR4.SA
+Data: 2014-12-08
+Decisão: VENDER
+Justificativa: Queda acentuada com volume moderado, reforçando o movimento de baixa.
+
+Ticker: PETR4.SA
+Data: 2014-12-09
+Decisão: COMPRAR
+Justificativa: Reversão de alta com volume alto, busca por suporte.
+
+Ticker: PETR4.SA
+Data: 2014-12-10
+Decisão: VENDER
+Justificativa: Queda com volume moderado, pressão vendedora retomada.
+
+Ticker: PETR4.SA
+Data: 2014-12-11
+Decisão: VENDER
+Justificativa: Queda com volume alto, continuação da tendência de baixa.
+
+Ticker: PETR4.SA
+Data: 2014-12-12
+Decisão: VENDER
+Justificativa: Queda acentuada com volume moderado, aprofundando a baixa.
+
+Ticker: PETR4.SA
+Data: 2014-12-15
+Decisão: VENDER
+Justificativa: Forte queda com volume muito alto, pânico no mercado.
+
+Ticker: PETR4.SA
+Data: 2014-12-16
+Decisão: COMPRAR
+Justificativa: Forte recuperação de alta com volume muito alto, possível exaustão da venda.
+
+Ticker: PETR4.SA
+Data: 2014-12-17
+Decisão: MANTER
+Justificativa: Preço estável com volume alto, consolidação após grande volatilidade.
+
+Ticker: PETR4.SA
+Data: 2014-12-18
+Decisão: MANTER
+Justificativa: Queda leve com volume alto, sem forte tendência.
+
+Ticker: PETR4.SA
+Data: 2014-12-19
+Decisão: MANTER
+Justificativa: Preço estável com volume moderado, indecisão.
+
+Ticker: PETR4.SA
+Data: 2014-12-22
+Decisão: COMPRAR
+Justificativa: Alta com volume moderado, buscando recuperação.
+
+Ticker: PETR4.SA
+Data: 2014-12-23
+Decisão: COMPRAR
+Justificativa: Continuação da alta com volume moderado, reforçando recuperação.
+
+Ticker: PETR4.SA
+Data: 2014-12-26
+Decisão: MANTER
+Justificativa: Queda leve com volume baixo, realização de lucros.
+
+Ticker: PETR4.SA
+Data: 2014-12-29
+Decisão: MANTER
+Justificativa: Preço estável com volume baixo, sem direcionamento claro.
+
+Ticker: PETR4.SA
+Data: 2014-12-30
+Decisão: MANTER
+Justificativa: Queda leve com volume baixo, período de baixa liquidez.
+
+Ticker: PETR4.SA
+Data: 2015-01-02
+Decisão: VENDER
+Justificativa: Queda com volume moderado, retomada da pressão vendedora.
+
+Ticker: PETR4.SA
+Data: 2015-01-05
+Decisão: VENDER
+Justificativa: Queda acentuada com volume alto, reforçando a baixa.
+
+Ticker: PETR4.SA
+Data: 2015-01-06
+Decisão: VENDER
+Justificativa: Continuação da queda com volume alto, forte tendência de baixa.
+
+Ticker: PETR4.SA
+Data: 2015-01-07
+Decisão: COMPRAR
+Justificativa: Leve alta com volume alto, possível busca por suporte.
+
+Ticker: PETR4.SA
+Data: 2015-01-08
+Decisão: COMPRAR
+Justificativa: Continuação da alta com volume alto, sinal de recuperação.
+
+Ticker: PETR4.SA
+Data: 2015-01-09
+Decisão: COMPRAR
+Justificativa: Alta com volume moderado, confirmando movimento de recuperação.
+
+Ticker: PETR4.SA
+Data: 2015-01-12
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: 2015-01-13
+Decisão: MANTER
+Justificativa: Leve alta com volume moderado, preço em consolidação.
+
+Ticker: PETR4.SA
+Data: 2015-01-14
+Decisão: MANTER
+Justificativa: Preço estável com volume moderado, indecisão.
+
+Ticker: PETR4.SA
+Data: 2015-01-15
+Decisão: COMPRAR
+Justificativa: Alta com volume alto, indicando retomada da força compradora.
+
+Ticker: PETR4.SA
+Data: 2015-01-16
+Decisão: MANTER
+Justificativa: Preço estável com volume moderado, consolidação da alta.
+
+Ticker: PETR4.SA
+Data: 2015-01-19
+Decisão: MANTER
+Justificativa: Queda leve com volume baixo, sem forte pressão.
+
+Ticker: PETR4.SA
+Data: 2015-01-20
+Decisão: MANTER
+Justificativa: Queda leve com volume alto, pode ser realização de lucros.
+
+Ticker: PETR4.SA
+Data: 2015-01-21
+Decisão: COMPRAR
+Justificativa: Alta com volume moderado, buscando recuperação.
+
+Ticker: PETR4.SA
+Data: 2015-01-22
+Decisão: COMPRAR
+Justificativa: Continuação da alta com volume alto, reforçando o movimento.
+
+Ticker: PETR4.SA
+Data: 2015-01-23
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: 2015-01-26
+Decisão: MANTER
+Justificativa: Preço estável com volume baixo, sem sinal claro.
+
+Ticker: PETR4.SA
+Data: 2015-01-27
+Decisão: COMPRAR
+Justificativa: Alta com volume moderado, buscando retomar tendência de alta.
+
+Ticker: PETR4.SA
+Data: 2015-01-28
+Decisão: VENDER
+Justificativa: Forte queda com volume muito alto, indicando venda massiva.
+
+Ticker: PETR4.SA
+Data: 2015-01-29
+Decisão: VENDER
+Justificativa: Continuação da queda com volume muito alto, forte pressão vendedora.
+
+Ticker: PETR4.SA
+Data: 2015-01-30
+Decisão: COMPRAR
+Justificativa: Leve alta com volume alto, tentativa de encontrar fundo.
+
+Ticker: PETR4.SA
+Data: 2015-02-02
+Decisão: COMPRAR
+Justificativa: Alta com volume moderado, busca por recuperação.
+
+Ticker: PETR4.SA
+Data: 2015-02-03
+Decisão: COMPRAR
+Justificativa: Forte alta com volume muito alto, confirma reversão.
+
+Ticker: PETR4.SA
+Data: 2015-02-04
+Decisão: MANTER
+Justificativa: Queda leve com volume muito alto, realização de lucros.
+
+Ticker: PETR4.SA
+Data: 2015-02-05
+Decisão: MANTER
+Justificativa: Preço estável com volume alto, indecisão no novo patamar.
+
+Ticker: PETR4.SA
+Data: 2015-02-06
+Decisão: VENDER
+Justificativa: Queda com volume muito alto, rompendo suporte e revertendo alta.
+
+Ticker: PETR4.SA
+Data: 2015-02-09
+Decisão: COMPRAR
+Justificativa: Reversão de alta com volume moderado, buscando recuperação.
+
+Ticker: PETR4.SA
+Data: 2015-02-10
+Decisão: MANTER
+Justificativa: Queda leve com volume alto, sem forte pressão vendedora.
+
+Ticker: PETR4.SA
+Data: 2015-02-11
+Decisão: MANTER
+Justificativa: Leve alta com volume moderado, consolidação.
+
+Ticker: PETR4.SA
+Data: 2015-02-12
+Decisão: COMPRAR
+Justificativa: Alta com volume moderado, indicando continuidade do movimento.
+
+Ticker: PETR4.SA
+Data: 2015-02-13
+Decisão: COMPRAR
+Justificativa: Alta com volume alto, confirmando interesse comprador.
+
+Ticker: PETR4.SA
+Data: 2015-02-18
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: 2015-02-19
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, continua em consolidação.
+
+Ticker: PETR4.SA
+Data: 2015-02-20
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, sem sinal claro.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, sem forte direcional.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta com volume moderado, busca por recuperação.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta com volume alto, mostrando força compradora.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta com volume moderado, tentando retomar alta.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável com volume moderado, indecisão.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, sem forte pressão.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, ainda em consolidação.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume alto, sem quebra de tendência.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável com volume baixo, pouca movimentação.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda com volume moderado, indicando continuação da baixa.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda acentuada com volume alto, forte pressão vendedora.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Leve alta com volume moderado, após forte queda, pode ser repique.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda com volume alto, sinal de pressão vendedora.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Leve alta com volume alto, buscando estabilização.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, sem direção clara.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta com volume moderado, recuperação.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta com volume alto, confirmando interesse comprador.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, consolidação em patamar de alta.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável com volume baixo, indecisão.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável com volume baixo, aguardando movimento.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta com volume alto, mostrando força compradora.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Forte queda com volume alto, realização de lucros ou reversão.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Leve alta com volume moderado, busca por suporte.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta com volume baixo, mas em movimento de recuperação.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Leve alta com volume moderado, consolidação.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta com volume moderado, tendência de alta.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta com volume alto, confirmando interesse comprador.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável com volume moderado, consolidação.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta com volume alto, reforçando o movimento de alta.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda com volume alto após alta, realização de lucros ou exaustão.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta com volume alto, retomada do impulso comprador.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta com volume alto, confirmando força compradora.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta com volume altíssimo, forte momentum.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume alto, realização de lucros.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta com volume alto, retomando o movimento.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume alto, consolidação após alta.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Leve alta com volume moderado, consolidação.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, sem forte pressão.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta com volume muito alto, indicando forte suporte.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável com volume alto, consolidação após alta.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável com volume moderado, indecisão.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Leve alta com volume baixo, sem forte convicção.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta com volume moderado, buscando retomar tendência de alta.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta com volume moderado, confirmando o movimento.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, consolidação.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda leve com volume moderado, busca por suporte.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável com volume baixo, sem sinal claro.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Leve alta com volume moderado, indecisão.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, consolidação.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável com volume baixo, aguardando direcionamento.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, buscando força.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta com volume moderado, confirmando interesse comprador.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda leve com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Leve alta com volume baixo, sem forte convicção.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, consolidação.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, sem forte pressão.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda com volume moderado, indicando continuação da baixa.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Forte queda com volume moderado, rompendo suporte.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, sem forte pressão.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda com volume moderado, tendência de baixa continua.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda com volume moderado, aprofundando a baixa.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta com volume moderado, busca por respiro.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, sem forte direcional.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Forte queda com volume moderado, indicando continuação.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável com volume moderado, indecisão.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta com volume alto, indicando possível fundo.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta com volume muito alto, confirmando reversão.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável com volume moderado, consolidação.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, sem forte pressão.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Leve alta com volume moderado, busca por suporte.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume alto, sem forte tendência.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta com volume alto, indicando possível reversão.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda com volume alto, mas sem quebrar o movimento de alta.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Leve alta com volume moderado, consolidação.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Leve alta com volume moderado, estabilidade.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável com volume moderado, indecisão.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda com volume baixo, mas mantém pressão de baixa.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume baixo, sem forte tendência.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume baixo, consolidação.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda leve com volume moderado, indicando continuação da baixa.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Leve alta com volume moderado, buscando recuperação.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda leve com volume alto, sem quebra de tendência.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta com volume moderado, indicando possível reversão.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta com volume alto, confirmando interesse comprador.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta com volume alto, confirmando movimento de alta.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, consolidando a alta.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável com volume alto, consolidação.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, sem forte pressão.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Leve alta com volume moderado, buscando recuperação.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, consolidação.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda com volume moderado, indicando continuação da baixa.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda com volume alto, confirmando movimento de baixa.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda com volume moderado, aprofundando a baixa.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda com volume moderado, mantendo a tendência de baixa.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta com volume moderado, busca por suporte.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda com volume alto, retomada da pressão vendedora.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda com volume moderado, continua a tendência de baixa.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta com volume moderado, buscando recuperação.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Leve alta com volume moderado, indecisão.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável com volume baixo, sem direcionamento claro.
+
+Ticker: PETR4.SA
+Data: 2015-10-19
+Decisão: MANTER
+Justificativa: Preço estável com volume moderado, sem sinal claro.
+
+Ticker: PETR4.SA
+Data: 2015-10-20
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, busca por recuperação.
+
+Ticker: PETR4.SA
+Data: 2015-10-21
+Decisão: VENDER
+Justificativa: Queda com volume moderado, indicando perda de força.
+
+Ticker: PETR4.SA
+Data: 2015-10-22
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, possível ponto de entrada.
+
+Ticker: PETR4.SA
+Data: 2015-10-23
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: 2015-10-26
+Decisão: MANTER
+Justificativa: Queda leve com volume baixo, sem forte pressão.
+
+Ticker: PETR4.SA
+Data: 2015-10-27
+Decisão: VENDER
+Justificativa: Queda com volume moderado, pressão de baixa.
+
+Ticker: PETR4.SA
+Data: 2015-10-28
+Decisão: COMPRAR
+Justificativa: Alta com volume baixo, pode ser um repique de curtíssimo prazo.
+
+Ticker: PETR4.SA
+Data: 2015-10-29
+Decisão: MANTER
+Justificativa: Preço estável com volume moderado, indecisão.
+
+Ticker: PETR4.SA
+Data: 2015-10-30
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, buscando estabilidade.
+
+Ticker: PETR4.SA
+Data: 2015-11-03
+Decisão: COMPRAR
+Justificativa: Forte alta com volume alto, indicando reversão.
+
+Ticker: PETR4.SA
+Data: 2015-11-04
+Decisão: VENDER
+Justificativa: Queda com volume alto, realização de lucros após alta.
+
+Ticker: PETR4.SA
+Data: 2015-11-05
+Decisão: MANTER
+Justificativa: Preço estável com volume muito alto, consolidação.
+
+Ticker: PETR4.SA
+Data: 2015-11-06
+Decisão: VENDER
+Justificativa: Queda com volume moderado, pressão de baixa se mantém.
+
+Ticker: PETR4.SA
+Data: 2015-11-09
+Decisão: MANTER
+Justificativa: Leve alta com volume moderado, sem forte tendência.
+
+Ticker: PETR4.SA
+Data: 2015-11-10
+Decisão: MANTER
+Justificativa: Preço estável com volume baixo, indecisão.
+
+Ticker: PETR4.SA
+Data: 2015-11-11
+Decisão: MANTER
+Justificativa: Leve alta com volume moderado, consolidação.
+
+Ticker: PETR4.SA
+Data: 2015-11-12
+Decisão: VENDER
+Justificativa: Queda com volume moderado, indicando continuação da baixa.
+
+Ticker: PETR4.SA
+Data: 2015-11-13
+Decisão: VENDER
+Justificativa: Queda acentuada com volume alto, forte pressão vendedora.
+
+Ticker: PETR4.SA
+Data: 2015-11-16
+Decisão: COMPRAR
+Justificativa: Forte alta com volume moderado, buscando recuperação.
+
+Ticker: PETR4.SA
+Data: 2015-11-17
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: 2015-11-18
+Decisão: MANTER
+Justificativa: Preço estável com volume moderado, consolidação.
+
+Ticker: PETR4.SA
+Data: 2015-11-19
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, sem forte tendência.
+
+Ticker: PETR4.SA
+Data: 2015-11-23
+Decisão: COMPRAR
+Justificativa: Alta com volume moderado, buscando retomar tendência de alta.
+
+Ticker: PETR4.SA
+Data: 2015-11-24
+Decisão: COMPRAR
+Justificativa: Forte alta com volume alto, confirmando interesse comprador.
+
+Ticker: PETR4.SA
+Data: 2015-11-25
+Decisão: VENDER
+Justificativa: Queda com volume alto, realização de lucros após forte alta.
+
+Ticker: PETR4.SA
+Data: 2015-11-26
+Decisão: MANTER
+Justificativa: Preço estável com volume baixo, sem sinal claro.
+
+Ticker: PETR4.SA
+Data: 2015-11-27
+Decisão: VENDER
+Justificativa: Queda com volume moderado, pressão de baixa.
+
+Ticker: PETR4.SA
+Data: 2015-11-30
+Decisão: COMPRAR
+Justificativa: Alta com volume alto, buscando recuperação e suporte.
+
+Ticker: PETR4.SA
+Data: 2015-12-01
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: 2015-12-02
+Decisão: MANTER
+Justificativa: Preço estável com volume moderado, indecisão.
+
+Ticker: PETR4.SA
+Data: 2015-12-03
+Decisão: COMPRAR
+Justificativa: Alta com volume alto, indicando força compradora.
+
+Ticker: PETR4.SA
+Data: 2015-12-04
+Decisão: VENDER
+Justificativa: Queda com volume alto, realizando lucros após alta.
+
+Ticker: PETR4.SA
+Data: 2015-12-07
+Decisão: VENDER
+Justificativa: Queda com volume moderado, continua a pressão de baixa.
+
+Ticker: PETR4.SA
+Data: 2015-12-08
+Decisão: VENDER
+Justificativa: Queda leve com volume moderado, tendência de baixa se mantém.
+
+Ticker: PETR4.SA
+Data: 2015-12-09
+Decisão: COMPRAR
+Justificativa: Alta com volume alto, buscando recuperação e reversão.
+
+Ticker: PETR4.SA
+Data: 2015-12-10
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: 2015-12-11
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, sem forte tendência.
+
+Ticker: PETR4.SA
+Data: 2015-12-14
+Decisão: MANTER
+Justificativa: Leve alta com volume baixo, indecisão.
+
+Ticker: PETR4.SA
+Data: 2015-12-15
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, tentando retomar alta.
+
+Ticker: PETR4.SA
+Data: 2015-12-16
+Decisão: MANTER
+Justificativa: Preço estável com volume moderado, consolidação.
+
+Ticker: PETR4.SA
+Data: 2015-12-17
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, sem forte pressão.
+
+Ticker: PETR4.SA
+Data: 2015-12-18
+Decisão: MANTER
+Justificativa: Preço estável com volume alto, indecisão.
+
+Ticker: PETR4.SA
+Data: 2015-12-21
+Decisão: VENDER
+Justificativa: Queda com volume moderado, indicando continuação da baixa.
+
+Ticker: PETR4.SA
+Data: 2015-12-22
+Decisão: MANTER
+Justificativa: Leve alta com volume moderado, após queda.
+
+Ticker: PETR4.SA
+Data: 2015-12-23
+Decisão: MANTER
+Justificativa: Preço estável com volume moderado, sem sinal claro.
+
+Ticker: PETR4.SA
+Data: 2015-12-28
+Decisão: VENDER
+Justificativa: Queda com volume baixo, mas mantém pressão de baixa.
+
+Ticker: PETR4.SA
+Data: 2015-12-29
+Decisão: MANTER
+Justificativa: Queda leve com volume baixo, sem forte tendência.
+
+Ticker: PETR4.SA
+Data: 2015-12-30
+Decisão: MANTER
+Justificativa: Preço estável com volume moderado, indecisão.
+
+Ticker: PETR4.SA
+Data: 2016-01-04
+Decisão: COMPRAR
+Justificativa: Alta com volume moderado, buscando recuperação.
+
+Ticker: PETR4.SA
+Data: 2016-01-05
+Decisão: MANTER
+Justificativa: Queda leve com volume baixo, realização de lucros.
+
+Ticker: PETR4.SA
+Data: 2016-01-06
+Decisão: VENDER
+Justificativa: Queda com volume alto, indicando pressão vendedora.
+
+Ticker: PETR4.SA
+Data: 2016-01-07
+Decisão: MANTER
+Justificativa: Leve alta com volume moderado, após forte queda.
+
+Ticker: PETR4.SA
+Data: 2016-01-08
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, indecisão.
+
+Ticker: PETR4.SA
+Data: 2016-01-11
+Decisão: VENDER
+Justificativa: Queda leve com volume moderado, continua a pressão.
+
+Ticker: PETR4.SA
+Data: 2016-01-12
+Decisão: VENDER
+Justificativa: Forte queda com volume alto, indicando venda massiva.
+
+Ticker: PETR4.SA
+Data: 2016-01-13
+Decisão: VENDER
+Justificativa: Continuação da queda com volume alto, forte tendência de baixa.
+
+Ticker: PETR4.SA
+Data: 2016-01-14
+Decisão: COMPRAR
+Justificativa: Alta com volume alto, buscando recuperação após fortes quedas.
+
+Ticker: PETR4.SA
+Data: 2016-01-15
+Decisão: VENDER
+Justificativa: Queda leve com volume alto, realizando lucros.
+
+Ticker: PETR4.SA
+Data: 2016-01-18
+Decisão: VENDER
+Justificativa: Queda acentuada com volume moderado, aprofundando a baixa.
+
+Ticker: PETR4.SA
+Data: 2016-01-19
+Decisão: VENDER
+Justificativa: Queda com volume alto, mantendo a tendência de baixa.
+
+Ticker: PETR4.SA
+Data: 2016-01-20
+Decisão: VENDER
+Justificativa: Queda leve com volume alto, continua a pressão vendedora.
+
+Ticker: PETR4.SA
+Data: 2016-01-21
+Decisão: COMPRAR
+Justificativa: Leve alta com volume alto, buscando um fundo.
+
+Ticker: PETR4.SA
+Data: 2016-01-22
+Decisão: MANTER
+Justificativa: Queda leve com volume muito alto, indecisão.
+
+Ticker: PETR4.SA
+Data: 2016-01-26
+Decisão: VENDER
+Justificativa: Queda leve com volume alto, sem forte reação.
+
+Ticker: PETR4.SA
+Data: 2016-01-27
+Decisão: COMPRAR
+Justificativa: Forte alta com volume alto, indicando possível reversão.
+
+Ticker: PETR4.SA
+Data: 2016-01-28
+Decisão: MANTER
+Justificativa: Queda leve com volume muito alto, realizando lucros.
+
+Ticker: PETR4.SA
+Data: 2016-01-29
+Decisão: COMPRAR
+Justificativa: Alta com volume alto, confirmando interesse comprador.
+
+Ticker: PETR4.SA
+Data: 2016-02-01
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, consolidação.
+
+Ticker: PETR4.SA
+Data: 2016-02-02
+Decisão: VENDER
+Justificativa: Queda com volume moderado, indicando continuação da baixa.
+
+Ticker: PETR4.SA
+Data: 2016-02-03
+Decisão: COMPRAR
+Justificativa: Alta com volume moderado, buscando recuperação.
+
+Ticker: PETR4.SA
+Data: 2016-02-04
+Decisão: COMPRAR
+Justificativa: Alta com volume alto, confirmando força compradora.
+
+Ticker: PETR4.SA
+Data: 2016-02-05
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: 2016-02-10
+Decisão: MANTER
+Justificativa: Preço estável com volume moderado, sem sinal claro.
+
+Ticker: PETR4.SA
+Data: 2016-02-11
+Decisão: MANTER
+Justificativa: Leve alta com volume moderado, ainda em indefinição.
+
+Ticker: PETR4.SA
+Data: 2016-02-12
+Decisão: COMPRAR
+Justificativa: Alta com volume moderado, buscando recuperação.
+
+Ticker: PETR4.SA
+Data: 2016-02-15
+Decisão: COMPRAR
+Justificativa: Leve alta com volume baixo, mantendo o momentum.
+
+Ticker: PETR4.SA
+Data: 2016-02-16
+Decisão: MANTER
+Justificativa: Queda leve com volume alto, realizando lucros.
+
+Ticker: PETR4.SA
+Data: 2016-02-17
+Decisão: COMPRAR
+Justificativa: Alta com volume alto, mostrando força compradora.
+
+Ticker: PETR4.SA
+Data: 2016-02-18
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: 2016-02-19
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, sem forte pressão.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta com volume alto, indicando reversão e força.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume alto, realização de lucros.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Leve alta com volume alto, buscando retomar o movimento.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, continua o movimento.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta com volume alto, confirmando interesse comprador.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável com volume alto, consolidação.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta com volume alto, rompendo resistências.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Preço estável com volume altíssimo, confirmação de tendência de alta.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta com volume altíssimo, forte momentum.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta com volume alto, mantendo a força compradora.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta com volume muito alto, continua o movimento de alta.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume alto, realização de lucros.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta com volume alto, recuperando-se rapidamente.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável com volume alto, consolidação após alta.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda com volume muito alto, sinal de pressão vendedora.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda com volume alto, confirmando movimento de baixa.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta com volume alto, buscando reversão.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume alto, realização de lucros.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Leve alta com volume moderado, consolidação.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável com volume moderado, indecisão.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Leve alta com volume alto, buscando retomar o movimento.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, consolidação.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta com volume moderado, confirmando interesse comprador.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta com volume alto, confirmando força compradora.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume alto, realização de lucros.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável com volume baixo, sem sinal claro.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável com volume muito baixo, aguardando direcionamento.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável com volume moderado, pouca movimentação.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável com volume baixo, indecisão.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável com volume baixo, sem forte tendência.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta com volume alto, indicando possível reversão.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável com volume muito baixo, consolidação.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável com volume baixo, sem sinal claro.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável com volume baixo, sem forte movimento.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Forte queda com volume alto, realização de lucros ou reversão.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta com volume alto, buscando recuperação e suporte.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda com volume alto, realização de lucros após alta.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável com volume muito baixo, indecisão.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, buscando força.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta com volume moderado, confirmando interesse comprador.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, consolidação em alta.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta com volume alto, rompendo resistências.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável com volume moderado, consolidação.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável com volume moderado, sem sinal claro.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, sem forte pressão.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Leve alta com volume moderado, indecisão.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda com volume moderado, sem quebrar o movimento de alta.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, buscando recuperação.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda com volume alto, realização de lucros.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta com volume alto, possível reversão.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda com volume moderado, indicando continuação da baixa.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda com volume moderado, aprofundando a baixa.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Forte queda com volume moderado, confirma tendência de baixa.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Forte queda com volume moderado, mantendo a pressão.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável com volume moderado, aguardando definição.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, sem forte direcional.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, ainda em consolidação.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável com volume baixo, pouca movimentação.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Leve alta com volume moderado, busca por recuperação.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, consolidação.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, sem forte pressão.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda com volume moderado, indicando continuação da baixa.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda com volume moderado, confirmando movimento de baixa.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda com volume moderado, aprofundando a baixa.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda leve com volume moderado, continua a tendência de baixa.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta com volume alto, buscando recuperação e reversão.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável com volume moderado, indecisão.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta com volume alto, confirmando interesse comprador.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta com volume alto, confirmando a força compradora.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta com volume alto, consolidando o movimento de alta.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta com volume moderado, continua o movimento.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda leve com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta com volume moderado, buscando retomar o movimento.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta com volume alto, confirmando interesse comprador.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta com volume alto, indicando forte momentum.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta com volume alto, confirmando a força compradora.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume alto, realização de lucros.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta com volume moderado, buscando recuperação.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta com volume moderado, confirmando interesse comprador.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta com volume alto, indicando forte movimento.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta com volume alto, confirmando a força compradora.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta com volume moderado, consolidando a alta.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Leve queda com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável com volume moderado, indecisão.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Forte queda com volume alto, sinal de pressão vendedora.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta com volume alto, buscando recuperação e suporte.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta com volume alto, confirmando o interesse comprador.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta com volume moderado, consolidando a alta.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Leve queda com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável com volume moderado, sem sinal claro.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, buscando força.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, sem forte pressão.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Leve alta com volume moderado, consolidação.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Leve alta com volume moderado, sem forte convicção.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda com volume moderado, indicando continuação da baixa.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, buscando recuperação.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, consolidando.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, sem forte convicção.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta com volume moderado, buscando recuperação.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Leve alta com volume moderado, consolidação.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Leve alta com volume moderado, sem forte convicção.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta com volume moderado, buscando retomar o movimento.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta com volume alto, confirmando interesse comprador.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta com volume alto, indicando forte momentum.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta com volume moderado, confirmando a força compradora.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta com volume moderado, consolidando a alta.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta com volume moderado, continua o movimento.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta com volume alto, rompendo resistências.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta com volume moderado, confirmando o movimento de alta.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável com volume moderado, consolidação.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Leve alta com volume moderado, sem sinal claro.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Leve alta com volume moderado, indecisão.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Leve alta com volume moderado, consolidação.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, sem forte pressão.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável com volume moderado, indecisão.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta com volume moderado, buscando recuperação.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Leve alta com volume moderado, consolidação.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta com volume moderado, confirmando interesse comprador.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta com volume moderado, confirmando a força compradora.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, buscando retomar o movimento.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Leve alta com volume moderado, consolidação.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, sem forte convicção.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta com volume moderado, buscando recuperação.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta com volume moderado, confirmando o movimento.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta com volume moderado, indicando forte momentum.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta com volume moderado, confirmando a força compradora.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta com volume moderado, consolidando a alta.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta com volume moderado, buscando retomar o movimento.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Leve alta com volume moderado, consolidação.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, sem forte convicção.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta com volume alto, indicando forte momentum.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta com volume alto, confirmando a força compradora.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta com volume alto, consolidando a alta.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta com volume moderado, continua o movimento.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta com volume moderado, buscando retomar o movimento.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda com volume alto, realizando lucros após alta.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, sem forte pressão.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, buscando força.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, consolidação.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Leve alta com volume moderado, sem forte convicção.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta com volume moderado, buscando retomar o movimento.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda leve com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável com volume zero, falta de liquidez ou dado ausente.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, sem forte pressão.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda com volume moderado, indicando continuação da baixa.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda com volume moderado, aprofundando a baixa.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda com volume moderado, mantendo a tendência de baixa.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Leve alta com volume moderado, buscando recuperação.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, consolidando.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Leve alta com volume moderado, consolidação.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta com volume moderado, buscando retomar o movimento.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, sem forte pressão.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta com volume moderado, buscando recuperação.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Leve alta com volume moderado, consolidação.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, sem forte convicção.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, buscando retomar o movimento.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável com volume zero, falta de liquidez ou dado ausente.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda com volume moderado, indicando continuação da baixa.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda leve com volume moderado, mantém pressão de baixa.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda com volume moderado, aprofundando a baixa.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda com volume moderado, confirmando movimento de baixa.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, buscando recuperação.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, consolidação.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Leve alta com volume moderado, sem forte convicção.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Leve alta com volume moderado, buscando retomar o movimento.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Leve alta com volume moderado, consolidação.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Leve alta com volume baixo, sem forte convicção.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, sem forte pressão.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, buscando recuperação.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta com volume alto, confirmando interesse comprador.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, consolidação.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, sem forte pressão.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Leve alta com volume moderado, indecisão.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta com volume moderado, buscando retomar o movimento.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda com volume moderado, indicando continuação da baixa.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Leve alta com volume moderado, buscando recuperação.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Leve alta com volume moderado, consolidação.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, sem forte convicção.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta com volume moderado, buscando retomar o movimento.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta com volume moderado, confirmando interesse comprador.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Leve alta com volume moderado, consolidação.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Leve alta com volume moderado, sem forte convicção.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, buscando retomar o movimento.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta com volume moderado, confirmando interesse comprador.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta com volume alto, indicando forte momentum.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta com volume alto, confirmando a força compradora.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta com volume moderado, consolidando a alta.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Leve queda com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta com volume moderado, buscando retomar o movimento.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Forte queda com volume alto, realização de lucros ou reversão.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Leve alta com volume moderado, buscando suporte.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta com volume moderado, confirmando o movimento.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, consolidação.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável com volume moderado, sem forte pressão.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, buscando força.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Leve alta com volume moderado, consolidação.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, sem forte pressão.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, buscando recuperação.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, confirmando o movimento.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta com volume alto, indicando forte momentum.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta com volume alto, confirmando a força compradora.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável com volume moderado, consolidação.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Leve queda com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta com volume moderado, buscando retomar o movimento.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta com volume alto, confirmando interesse comprador.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta com volume alto, consolidando a alta.
+
+Ticker: PETR4.SA
+Data: 2016-10-17
+Decisão: COMPRAR
+Justificativa: Forte alta com volume alto, confirmando interesse comprador.
+
+Ticker: PETR4.SA
+Data: 2016-10-18
+Decisão: COMPRAR
+Justificativa: Alta com volume alto, mantendo a força compradora.
+
+Ticker: PETR4.SA
+Data: 2016-10-19
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: 2016-10-20
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, buscando retomar o movimento.
+
+Ticker: PETR4.SA
+Data: 2016-10-21
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, consolidando a alta.
+
+Ticker: PETR4.SA
+Data: 2016-10-24
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: 2016-10-25
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, sem forte pressão.
+
+Ticker: PETR4.SA
+Data: 2016-10-26
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, buscando recuperação.
+
+Ticker: PETR4.SA
+Data: 2016-10-27
+Decisão: MANTER
+Justificativa: Preço estável com volume moderado, indecisão.
+
+Ticker: PETR4.SA
+Data: 2016-10-28
+Decisão: MANTER
+Justificativa: Preço estável com volume moderado, sem sinal claro.
+
+Ticker: PETR4.SA
+Data: 2016-10-31
+Decisão: VENDER
+Justificativa: Queda leve com volume moderado, indicando perda de força.
+
+Ticker: PETR4.SA
+Data: 2016-11-01
+Decisão: VENDER
+Justificativa: Forte queda com volume alto, rompendo suporte.
+
+Ticker: PETR4.SA
+Data: 2016-11-03
+Decisão: VENDER
+Justificativa: Queda com volume moderado, mantendo a tendência de baixa.
+
+Ticker: PETR4.SA
+Data: 2016-11-04
+Decisão: VENDER
+Justificativa: Queda com volume alto, confirmando movimento de baixa.
+
+Ticker: PETR4.SA
+Data: 2016-11-07
+Decisão: COMPRAR
+Justificativa: Forte alta com volume moderado, buscando recuperação.
+
+Ticker: PETR4.SA
+Data: 2016-11-08
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: 2016-11-09
+Decisão: COMPRAR
+Justificativa: Alta com volume muito alto, indicando possível reversão.
+
+Ticker: PETR4.SA
+Data: 2016-11-10
+Decisão: VENDER
+Justificativa: Forte queda com volume muito alto, realizando lucros e revertendo.
+
+Ticker: PETR4.SA
+Data: 2016-11-11
+Decisão: VENDER
+Justificativa: Forte queda com volume altíssimo, pânico no mercado.
+
+Ticker: PETR4.SA
+Data: 2016-11-14
+Decisão: COMPRAR
+Justificativa: Leve alta com volume alto, buscando um fundo.
+
+Ticker: PETR4.SA
+Data: 2016-11-16
+Decisão: COMPRAR
+Justificativa: Alta com volume alto, confirmando recuperação.
+
+Ticker: PETR4.SA
+Data: 2016-11-17
+Decisão: VENDER
+Justificativa: Queda com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: 2016-11-18
+Decisão: MANTER
+Justificativa: Leve alta com volume moderado, consolidação.
+
+Ticker: PETR4.SA
+Data: 2016-11-21
+Decisão: COMPRAR
+Justificativa: Forte alta com volume moderado, confirmando interesse comprador.
+
+Ticker: PETR4.SA
+Data: 2016-11-22
+Decisão: MANTER
+Justificativa: Preço estável com volume moderado, consolidação da alta.
+
+Ticker: PETR4.SA
+Data: 2016-11-23
+Decisão: MANTER
+Justificativa: Leve alta com volume moderado, sem forte tendência.
+
+Ticker: PETR4.SA
+Data: 2016-11-24
+Decisão: MANTER
+Justificativa: Queda leve com volume muito baixo, indecisão.
+
+Ticker: PETR4.SA
+Data: 2016-11-25
+Decisão: MANTER
+Justificativa: Leve alta com volume moderado, sem forte pressão.
+
+Ticker: PETR4.SA
+Data: 2016-11-28
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, buscando força.
+
+Ticker: PETR4.SA
+Data: 2016-11-29
+Decisão: VENDER
+Justificativa: Queda com volume moderado, indicando perda de força.
+
+Ticker: PETR4.SA
+Data: 2016-11-30
+Decisão: COMPRAR
+Justificativa: Forte alta com volume alto, buscando recuperação.
+
+Ticker: PETR4.SA
+Data: 2016-12-01
+Decisão: VENDER
+Justificativa: Queda com volume alto, realização de lucros.
+
+Ticker: PETR4.SA
+Data: 2016-12-02
+Decisão: COMPRAR
+Justificativa: Forte alta com volume moderado, buscando recuperação.
+
+Ticker: PETR4.SA
+Data: 2016-12-05
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: 2016-12-06
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, consolidação.
+
+Ticker: PETR4.SA
+Data: 2016-12-07
+Decisão: VENDER
+Justificativa: Queda com volume moderado, indicando perda de força.
+
+Ticker: PETR4.SA
+Data: 2016-12-08
+Decisão: VENDER
+Justificativa: Queda leve com volume moderado, tendência de baixa.
+
+Ticker: PETR4.SA
+Data: 2016-12-09
+Decisão: VENDER
+Justificativa: Queda leve com volume moderado, mantendo a pressão.
+
+Ticker: PETR4.SA
+Data: 2016-12-12
+Decisão: VENDER
+Justificativa: Queda leve com volume moderado, continua a pressão de baixa.
+
+Ticker: PETR4.SA
+Data: 2016-12-13
+Decisão: VENDER
+Justificativa: Queda leve com volume moderado, continua a tendência de baixa.
+
+Ticker: PETR4.SA
+Data: 2016-12-14
+Decisão: VENDER
+Justificativa: Forte queda com volume moderado, rompendo suporte.
+
+Ticker: PETR4.SA
+Data: 2016-12-15
+Decisão: MANTER
+Justificativa: Leve alta com volume moderado, após forte queda.
+
+Ticker: PETR4.SA
+Data: 2016-12-16
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, indecisão.
+
+Ticker: PETR4.SA
+Data: 2016-12-19
+Decisão: VENDER
+Justificativa: Queda com volume moderado, indicando continuação da baixa.
+
+Ticker: PETR4.SA
+Data: 2016-12-20
+Decisão: MANTER
+Justificativa: Preço estável com volume moderado, sem sinal claro.
+
+Ticker: PETR4.SA
+Data: 2016-12-21
+Decisão: MANTER
+Justificativa: Preço estável com volume moderado, indecisão.
+
+Ticker: PETR4.SA
+Data: 2016-12-22
+Decisão: VENDER
+Justificativa: Queda com volume moderado, indicando continuação da baixa.
+
+Ticker: PETR4.SA
+Data: 2016-12-23
+Decisão: COMPRAR
+Justificativa: Leve alta com volume baixo, buscando recuperação.
+
+Ticker: PETR4.SA
+Data: 2016-12-26
+Decisão: COMPRAR
+Justificativa: Leve alta com volume muito baixo, consolidação.
+
+Ticker: PETR4.SA
+Data: 2016-12-27
+Decisão: MANTER
+Justificativa: Queda leve com volume muito baixo, realização de lucros.
+
+Ticker: PETR4.SA
+Data: 2016-12-28
+Decisão: COMPRAR
+Justificativa: Alta com volume baixo, confirmando interesse comprador.
+
+Ticker: PETR4.SA
+Data: 2016-12-29
+Decisão: MANTER
+Justificativa: Preço estável com volume baixo, sem forte tendência.
+
+Ticker: PETR4.SA
+Data: 2017-01-02
+Decisão: MANTER
+Justificativa: Preço estável com volume baixo, período de baixa liquidez.
+
+Ticker: PETR4.SA
+Data: 2017-01-03
+Decisão: COMPRAR
+Justificativa: Forte alta com volume moderado, indicando reversão.
+
+Ticker: PETR4.SA
+Data: 2017-01-04
+Decisão: MANTER
+Justificativa: Preço estável com volume moderado, consolidação da alta.
+
+Ticker: PETR4.SA
+Data: 2017-01-05
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, buscando retomar o movimento.
+
+Ticker: PETR4.SA
+Data: 2017-01-06
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: 2017-01-09
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, sem forte pressão.
+
+Ticker: PETR4.SA
+Data: 2017-01-10
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, consolidação.
+
+Ticker: PETR4.SA
+Data: 2017-01-11
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, buscando recuperação.
+
+Ticker: PETR4.SA
+Data: 2017-01-12
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: 2017-01-13
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, sem forte pressão.
+
+Ticker: PETR4.SA
+Data: 2017-01-16
+Decisão: MANTER
+Justificativa: Leve alta com volume baixo, indecisão.
+
+Ticker: PETR4.SA
+Data: 2017-01-17
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, buscando retomar o movimento.
+
+Ticker: PETR4.SA
+Data: 2017-01-18
+Decisão: MANTER
+Justificativa: Preço estável com volume moderado, indecisão.
+
+Ticker: PETR4.SA
+Data: 2017-01-19
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, sem forte pressão.
+
+Ticker: PETR4.SA
+Data: 2017-01-20
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, buscando recuperação.
+
+Ticker: PETR4.SA
+Data: 2017-01-23
+Decisão: MANTER
+Justificativa: Leve alta com volume moderado, consolidação.
+
+Ticker: PETR4.SA
+Data: 2017-01-24
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: 2017-01-26
+Decisão: VENDER
+Justificativa: Queda com volume moderado, indicando perda de força.
+
+Ticker: PETR4.SA
+Data: 2017-01-27
+Decisão: VENDER
+Justificativa: Queda leve com volume moderado, mantém pressão de baixa.
+
+Ticker: PETR4.SA
+Data: 2017-01-30
+Decisão: VENDER
+Justificativa: Queda acentuada com volume moderado, aprofundando a baixa.
+
+Ticker: PETR4.SA
+Data: 2017-01-31
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, buscando recuperação.
+
+Ticker: PETR4.SA
+Data: 2017-02-01
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: 2017-02-02
+Decisão: VENDER
+Justificativa: Queda leve com volume moderado, sem forte reação.
+
+Ticker: PETR4.SA
+Data: 2017-02-03
+Decisão: COMPRAR
+Justificativa: Forte alta com volume moderado, buscando reversão.
+
+Ticker: PETR4.SA
+Data: 2017-02-06
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: 2017-02-07
+Decisão: VENDER
+Justificativa: Queda com volume moderado, indicando perda de força.
+
+Ticker: PETR4.SA
+Data: 2017-02-08
+Decisão: COMPRAR
+Justificativa: Forte alta com volume alto, indicando possível reversão.
+
+Ticker: PETR4.SA
+Data: 2017-02-09
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: 2017-02-10
+Decisão: COMPRAR
+Justificativa: Forte alta com volume moderado, buscando retomar o movimento.
+
+Ticker: PETR4.SA
+Data: 2017-02-13
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: 2017-02-14
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, consolidação.
+
+Ticker: PETR4.SA
+Data: 2017-02-15
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, sem forte pressão.
+
+Ticker: PETR4.SA
+Data: 2017-02-16
+Decisão: MANTER
+Justificativa: Preço estável com volume moderado, indecisão.
+
+Ticker: PETR4.SA
+Data: 2017-02-17
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, sem forte pressão.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, buscando recuperação.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável com volume moderado, consolidação.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda com volume moderado, indicando perda de força.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda com volume moderado, aprofundando a baixa.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda leve com volume moderado, continua a pressão de baixa.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável com volume moderado, indecisão.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda com volume moderado, indicando continuação da baixa.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, buscando recuperação.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável com volume moderado, sem sinal claro.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável com volume moderado, aguardando direcionamento.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda acentuada com volume moderado, rompendo suporte.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, buscando recuperação.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda leve com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Leve alta com volume moderado, consolidação.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda com volume alto, indicando continuação da baixa.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, buscando recuperação.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda com volume moderado, realizando lucros.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Forte queda com volume alto, confirmando forte pressão vendedora.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta com volume moderado, buscando recuperação.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, consolidação.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, sem forte pressão.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, buscando força.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, consolidando a alta.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta com volume moderado, indicando forte momentum.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, buscando retomar o movimento.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, consolidando.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, sem forte convicção.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, buscando retomar o movimento.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, sem forte pressão.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, buscando recuperação.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda com volume moderado, indicando perda de força.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Leve alta com volume moderado, buscando recuperação.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, consolidação.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, sem forte convicção.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, buscando recuperação.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta com volume moderado, buscando retomar o movimento.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, consolidação.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, sem forte convicção.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta com volume moderado, indicando forte momentum.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta com volume alto, confirmando a força compradora.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável com volume moderado, consolidação.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Leve queda com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, buscando retomar o movimento.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Leve alta com volume moderado, consolidação.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Leve alta com volume moderado, sem forte convicção.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta com volume moderado, indicando forte momentum.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta com volume moderado, confirmando a força compradora.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta com volume moderado, consolidando a alta.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta com volume moderado, continua o movimento.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta com volume moderado, buscando retomar o movimento.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, consolidando a alta.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, buscando retomar o movimento.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda com volume moderado, indicando perda de força.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta com volume altíssimo, indicando possível reversão.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, consolidando.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, sem forte pressão.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, buscando força.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, consolidando a alta.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável com volume zero, falta de liquidez ou dado ausente.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda leve com volume moderado, realizando lucros.
+
+Ticker: PETR4.SA
+Data: 2017-10-16
+Decisão: MANTER
+Justificativa: Preço estável com volume moderado, sem sinal claro.
+
+Ticker: PETR4.SA
+Data: 2017-10-17
+Decisão: MANTER
+Justificativa: Preço estável com volume moderado, indecisão.
+
+Ticker: PETR4.SA
+Data: 2017-10-18
+Decisão: MANTER
+Justificativa: Leve alta com volume moderado, sem forte convicção.
+
+Ticker: PETR4.SA
+Data: 2017-10-19
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, buscando retomar o movimento.
+
+Ticker: PETR4.SA
+Data: 2017-10-20
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, consolidando a alta.
+
+Ticker: PETR4.SA
+Data: 2017-10-23
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: 2017-10-24
+Decisão: COMPRAR
+Justificativa: Forte alta com volume moderado, indicando forte momentum.
+
+Ticker: PETR4.SA
+Data: 2017-10-25
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, confirmando a força compradora.
+
+Ticker: PETR4.SA
+Data: 2017-10-26
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: 2017-10-27
+Decisão: COMPRAR
+Justificativa: Forte alta com volume moderado, rompendo resistências.
+
+Ticker: PETR4.SA
+Data: 2017-10-30
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: 2017-10-31
+Decisão: MANTER
+Justificativa: Preço estável com volume moderado, sem forte pressão.
+
+Ticker: PETR4.SA
+Data: 2017-11-01
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, consolidação.
+
+Ticker: PETR4.SA
+Data: 2017-11-02
+Decisão: MANTER
+Justificativa: Preço estável com volume zero, falta de liquidez ou dado ausente.
+
+Ticker: PETR4.SA
+Data: 2017-11-03
+Decisão: MANTER
+Justificativa: Preço estável com volume moderado, indecisão.
+
+Ticker: PETR4.SA
+Data: 2017-11-06
+Decisão: COMPRAR
+Justificativa: Forte alta com volume moderado, buscando retomar o movimento.
+
+Ticker: PETR4.SA
+Data: 2017-11-07
+Decisão: VENDER
+Justificativa: Forte queda com volume alto, realizando lucros e revertendo.
+
+Ticker: PETR4.SA
+Data: 2017-11-08
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, buscando recuperação.
+
+Ticker: PETR4.SA
+Data: 2017-11-09
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: 2017-11-10
+Decisão: MANTER
+Justificativa: Preço estável com volume moderado, sem forte pressão.
+
+Ticker: PETR4.SA
+Data: 2017-11-13
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, indecisão.
+
+Ticker: PETR4.SA
+Data: 2017-11-14
+Decisão: VENDER
+Justificativa: Forte queda com volume altíssimo, pânico no mercado.
+
+Ticker: PETR4.SA
+Data: 2017-11-15
+Decisão: MANTER
+Justificativa: Preço estável com volume zero, falta de liquidez ou dado ausente.
+
+Ticker: PETR4.SA
+Data: 2017-11-16
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, buscando recuperação.
+
+Ticker: PETR4.SA
+Data: 2017-11-17
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, consolidando a alta.
+
+Ticker: PETR4.SA
+Data: 2017-11-20
+Decisão: MANTER
+Justificativa: Preço estável com volume zero, falta de liquidez ou dado ausente.
+
+Ticker: PETR4.SA
+Data: 2017-11-21
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: 2017-11-22
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, buscando retomar o movimento.
+
+Ticker: PETR4.SA
+Data: 2017-11-23
+Decisão: COMPRAR
+Justificativa: Leve alta com volume baixo, consolidando a alta.
+
+Ticker: PETR4.SA
+Data: 2017-11-24
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: 2017-11-27
+Decisão: VENDER
+Justificativa: Queda leve com volume moderado, indicando perda de força.
+
+Ticker: PETR4.SA
+Data: 2017-11-28
+Decisão: VENDER
+Justificativa: Queda leve com volume moderado, mantendo a pressão de baixa.
+
+Ticker: PETR4.SA
+Data: 2017-11-29
+Decisão: VENDER
+Justificativa: Forte queda com volume moderado, rompendo suporte.
+
+Ticker: PETR4.SA
+Data: 2017-11-30
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, buscando recuperação.
+
+Ticker: PETR4.SA
+Data: 2017-12-01
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, consolidando.
+
+Ticker: PETR4.SA
+Data: 2017-12-04
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: 2017-12-05
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, sem forte pressão.
+
+Ticker: PETR4.SA
+Data: 2017-12-06
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, buscando recuperação.
+
+Ticker: PETR4.SA
+Data: 2017-12-07
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: 2017-12-08
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, sem forte pressão.
+
+Ticker: PETR4.SA
+Data: 2017-12-11
+Decisão: MANTER
+Justificativa: Queda leve com volume baixo, indecisão.
+
+Ticker: PETR4.SA
+Data: 2017-12-12
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, buscando retomar o movimento.
+
+Ticker: PETR4.SA
+Data: 2017-12-13
+Decisão: VENDER
+Justificativa: Forte queda com volume moderado, indicando perda de força.
+
+Ticker: PETR4.SA
+Data: 2017-12-14
+Decisão: VENDER
+Justificativa: Queda leve com volume moderado, mantém pressão de baixa.
+
+Ticker: PETR4.SA
+Data: 2017-12-15
+Decisão: VENDER
+Justificativa: Queda leve com volume moderado, continua a pressão de baixa.
+
+Ticker: PETR4.SA
+Data: 2017-12-18
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, buscando recuperação.
+
+Ticker: PETR4.SA
+Data: 2017-12-19
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: 2017-12-20
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, consolidando.
+
+Ticker: PETR4.SA
+Data: 2017-12-21
+Decisão: COMPRAR
+Justificativa: Forte alta com volume moderado, buscando retomar o movimento.
+
+Ticker: PETR4.SA
+Data: 2017-12-22
+Decisão: MANTER
+Justificativa: Preço estável com volume moderado, consolidação da alta.
+
+Ticker: PETR4.SA
+Data: 2017-12-25
+Decisão: MANTER
+Justificativa: Preço estável com volume zero, falta de liquidez ou dado ausente.
+
+Ticker: PETR4.SA
+Data: 2017-12-26
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, buscando retomar o movimento.
+
+Ticker: PETR4.SA
+Data: 2017-12-27
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, consolidando a alta.
+
+Ticker: PETR4.SA
+Data: 2017-12-28
+Decisão: MANTER
+Justificativa: Preço estável com volume moderado, sem forte tendência.
+
+Ticker: PETR4.SA
+Data: 2017-12-29
+Decisão: MANTER
+Justificativa: Preço estável com volume zero, falta de liquidez ou dado ausente.
+
+Ticker: PETR4.SA
+Data: 2018-01-02
+Decisão: COMPRAR
+Justificativa: Forte alta com volume moderado, indicando reversão.
+
+Ticker: PETR4.SA
+Data: 2018-01-03
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, confirmando a força compradora.
+
+Ticker: PETR4.SA
+Data: 2018-01-04
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: 2018-01-05
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, buscando retomar o movimento.
+
+Ticker: PETR4.SA
+Data: 2018-01-08
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, consolidando a alta.
+
+Ticker: PETR4.SA
+Data: 2018-01-09
+Decisão: MANTER
+Justificativa: Preço estável com volume moderado, sem forte tendência.
+
+Ticker: PETR4.SA
+Data: 2018-01-10
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: 2018-01-11
+Decisão: COMPRAR
+Justificativa: Alta com volume moderado, buscando retomar o movimento.
+
+Ticker: PETR4.SA
+Data: 2018-01-12
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, consolidando a alta.
+
+Ticker: PETR4.SA
+Data: 2018-01-15
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, sem forte convicção.
+
+Ticker: PETR4.SA
+Data: 2018-01-16
+Decisão: COMPRAR
+Justificativa: Alta com volume alto, indicando forte momentum.
+
+Ticker: PETR4.SA
+Data: 2018-01-17
+Decisão: COMPRAR
+Justificativa: Forte alta com volume alto, confirmando a força compradora.
+
+Ticker: PETR4.SA
+Data: 2018-01-18
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: 2018-01-19
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, sem forte pressão.
+
+Ticker: PETR4.SA
+Data: 2018-01-22
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, buscando retomar o movimento.
+
+Ticker: PETR4.SA
+Data: 2018-01-23
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: 2018-01-24
+Decisão: COMPRAR
+Justificativa: Forte alta com volume altíssimo, rompendo resistências.
+
+Ticker: PETR4.SA
+Data: 2018-01-25
+Decisão: MANTER
+Justificativa: Preço estável com volume zero, falta de liquidez ou dado ausente.
+
+Ticker: PETR4.SA
+Data: 2018-01-26
+Decisão: COMPRAR
+Justificativa: Forte alta com volume alto, confirmando interesse comprador.
+
+Ticker: PETR4.SA
+Data: 2018-01-29
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: 2018-01-30
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, sem forte pressão.
+
+Ticker: PETR4.SA
+Data: 2018-01-31
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, consolidação.
+
+Ticker: PETR4.SA
+Data: 2018-02-01
+Decisão: COMPRAR
+Justificativa: Forte alta com volume moderado, buscando retomar o movimento.
+
+Ticker: PETR4.SA
+Data: 2018-02-02
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: 2018-02-05
+Decisão: VENDER
+Justificativa: Forte queda com volume moderado, indicando perda de força.
+
+Ticker: PETR4.SA
+Data: 2018-02-06
+Decisão: COMPRAR
+Justificativa: Forte alta com volume alto, buscando recuperação.
+
+Ticker: PETR4.SA
+Data: 2018-02-07
+Decisão: VENDER
+Justificativa: Queda com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: 2018-02-08
+Decisão: VENDER
+Justificativa: Queda com volume moderado, indicando continuação da baixa.
+
+Ticker: PETR4.SA
+Data: 2018-02-09
+Decisão: VENDER
+Justificativa: Queda leve com volume alto, mantém pressão de baixa.
+
+Ticker: PETR4.SA
+Data: 2018-02-14
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, buscando recuperação.
+
+Ticker: PETR4.SA
+Data: 2018-02-15
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: 2018-02-16
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, sem forte pressão.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, buscando retomar o movimento.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Leve alta com volume alto, consolidando a alta.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, buscando retomar o movimento.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, consolidando a alta.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, sem forte convicção.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável com volume moderado, indecisão.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda leve com volume moderado, indicando perda de força.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta com volume moderado, buscando recuperação.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta com volume moderado, confirmando a força compradora.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, sem forte pressão.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Leve alta com volume moderado, buscando retomar o movimento.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, consolidando a alta.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, sem forte pressão.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Leve alta com volume moderado, indecisão.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Forte queda com volume alto, indicando perda de força.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, sem forte pressão.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, indecisão.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, buscando retomar o movimento.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, consolidando a alta.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Leve alta com volume moderado, sem forte convicção.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda leve com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, sem forte pressão.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, buscando retomar o movimento.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, consolidando.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, sem forte convicção.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta com volume moderado, buscando retomar o movimento.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, consolidando a alta.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda leve com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, buscando retomar o movimento.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, consolidando a alta.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta com volume moderado, indicando forte momentum.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta com volume alto, confirmando a força compradora.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta com volume alto, consolidando a alta.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, continua o movimento.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, buscando retomar o movimento.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Forte queda com volume alto, realizando lucros e revertendo.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Forte queda com volume altíssimo, pânico no mercado.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Forte queda com volume altíssimo, mantendo a pressão de baixa.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta com volume altíssimo, buscando recuperação e reversão.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta com volume altíssimo, confirmando interesse comprador.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Forte queda com volume altíssimo, realizando lucros e revertendo.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, buscando recuperação.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda leve com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda leve com volume moderado, sem forte pressão.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Forte queda com volume alto, indicando continuação da baixa.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Forte queda com volume moderado, aprofundando a baixa.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Leve alta com volume moderado, buscando recuperação.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Leve alta com volume moderado, consolidando.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda leve com volume moderado, realizando lucros.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda leve com volume moderado, sem forte pressão.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda leve com volume moderado, continua a pressão de baixa.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda leve com volume moderado, mantendo a tendência de baixa.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta com volume moderado, buscando recuperação.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta com volume moderado, confirmando a força compradora.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda leve com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, sem forte pressão.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, buscando retomar o movimento.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, consolidando a alta.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta com volume moderado, indicando forte momentum.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Leve alta com volume moderado, consolidando.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, sem forte convicção.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta com volume moderado, buscando retomar o movimento.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta com volume moderado, consolidando a alta.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, buscando retomar o movimento.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, consolidando a alta.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, sem forte convicção.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, buscando retomar o movimento.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda com volume moderado, indicando perda de força.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda leve com volume moderado, mantém pressão de baixa.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda leve com volume moderado, sem forte pressão.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, buscando recuperação.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta com volume moderado, buscando retomar o movimento.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda leve com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, consolidando.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável com volume moderado, sem forte pressão.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Leve alta com volume moderado, buscando força.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, realização de lucros.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, consolidando.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável com volume moderado, indecisão.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, sem forte pressão.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Leve alta com volume moderado, buscando recuperação.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, realização de lucros.

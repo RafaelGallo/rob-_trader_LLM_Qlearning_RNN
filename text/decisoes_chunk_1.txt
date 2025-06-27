@@ -1,0 +1,4576 @@
+Aqui estão as decisões para cada linha, baseadas nos dados fornecidos e numa análise simplificada de price action e volume:
+
+Ticker: VALE3.SA
+Data: 2010-01-04
+Decisão: COMPRAR
+Justificativa: Preço em alta com volume considerável, indicando força.
+
+Ticker: VALE3.SA
+Data: 2010-01-05
+Decisão: COMPRAR
+Justificativa: Continuação da alta com volume crescente.
+
+Ticker: VALE3.SA
+Data: 2010-01-06
+Decisão: COMPRAR
+Justificativa: Preço em alta sustentada, bom volume.
+
+Ticker: VALE3.SA
+Data: 2010-01-07
+Decisão: COMPRAR
+Justificativa: Continuação do movimento de alta.
+
+Ticker: VALE3.SA
+Data: 2010-01-08
+Decisão: COMPRAR
+Justificativa: Preço continua subindo, momentum de alta.
+
+Ticker: VALE3.SA
+Data: 2010-01-11
+Decisão: MANTER
+Justificativa: Leve queda após alta, volume ainda alto, mas sem quebra de tendência clara.
+
+Ticker: VALE3.SA
+Data: 2010-01-12
+Decisão: COMPRAR
+Justificativa: Recuperação do preço, indicando resiliência.
+
+Ticker: VALE3.SA
+Data: 2010-01-13
+Decisão: MANTER
+Justificativa: Preço estável com volume bom, sem direção clara.
+
+Ticker: VALE3.SA
+Data: 2010-01-14
+Decisão: MANTER
+Justificativa: Preço inalterado com volume reduzido, indecisão.
+
+Ticker: VALE3.SA
+Data: 2010-01-15
+Decisão: MANTER
+Justificativa: Leve queda, mas sem volume significativo para indicar venda.
+
+Ticker: VALE3.SA
+Data: 2010-01-18
+Decisão: COMPRAR
+Justificativa: Reversão de alta com aumento de preço, embora volume menor.
+
+Ticker: VALE3.SA
+Data: 2010-01-19
+Decisão: COMPRAR
+Justificativa: Forte alta no preço com volume aumentando.
+
+Ticker: VALE3.SA
+Data: 2010-01-20
+Decisão: VENDER
+Justificativa: Queda de preço com volume alto, indicando pressão vendedora.
+
+Ticker: VALE3.SA
+Data: 2010-01-21
+Decisão: VENDER
+Justificativa: Forte queda com alto volume, reforçando tendência de baixa.
+
+Ticker: VALE3.SA
+Data: 2010-01-22
+Decisão: VENDER
+Justificativa: Queda acentuada continua com volume alto.
+
+Ticker: VALE3.SA
+Data: 2010-01-26
+Decisão: VENDER
+Justificativa: Preço em queda com volume muito alto, forte sinal de baixa.
+
+Ticker: VALE3.SA
+Data: 2010-01-27
+Decisão: VENDER
+Justificativa: Continuação da queda com volume elevado.
+
+Ticker: VALE3.SA
+Data: 2010-01-28
+Decisão: MANTER
+Justificativa: Preço estabilizando após quedas, volume normal.
+
+Ticker: VALE3.SA
+Data: 2010-01-29
+Decisão: MANTER
+Justificativa: Preço quase estável, sem sinais claros de reversão.
+
+Ticker: VALE3.SA
+Data: 2010-02-01
+Decisão: COMPRAR
+Justificativa: Alta no preço com volume bom, possível reversão.
+
+Ticker: VALE3.SA
+Data: 2010-02-02
+Decisão: MANTER
+Justificativa: Preço estável após alta, sem nova direção.
+
+Ticker: VALE3.SA
+Data: 2010-02-03
+Decisão: MANTER
+Justificativa: Preço levemente em queda, volume estável, aguardar.
+
+Ticker: VALE3.SA
+Data: 2010-02-04
+Decisão: VENDER
+Justificativa: Forte queda com volume muito alto, confirma pressão vendedora.
+
+Ticker: VALE3.SA
+Data: 2010-02-05
+Decisão: MANTER
+Justificativa: Preço estabiliza após queda, alto volume de indecisão.
+
+Ticker: VALE3.SA
+Data: 2010-02-08
+Decisão: MANTER
+Justificativa: Preço estável, alto volume, sem direção clara.
+
+Ticker: VALE3.SA
+Data: 2010-02-09
+Decisão: COMPRAR
+Justificativa: Alta no preço com volume alto, indicando interesse comprador.
+
+Ticker: VALE3.SA
+Data: 2010-02-10
+Decisão: MANTER
+Justificativa: Leve queda com volume menor, sem reversão de tendência.
+
+Ticker: VALE3.SA
+Data: 2010-02-11
+Decisão: COMPRAR
+Justificativa: Forte alta no preço com volume muito elevado, sinal de força.
+
+Ticker: VALE3.SA
+Data: 2010-02-12
+Decisão: COMPRAR
+Justificativa: Continuação da alta, volume saudável.
+
+Ticker: VALE3.SA
+Data: 2010-02-17
+Decisão: MANTER
+Justificativa: Preço estável em patamar alto, volume bom.
+
+Ticker: VALE3.SA
+Data: 2010-02-18
+Decisão: COMPRAR
+Justificativa: Alta no preço com volume considerável, continuidade.
+
+Ticker: VALE3.SA
+Data: 2010-02-19
+Decisão: COMPRAR
+Justificativa: Preço continua em alta, bom momento.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda de preço com volume baixo, pode ser volatilidade normal.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda de preço, mas volume ainda baixo, cautela.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável em volume médio, sem sinais claros.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço com volume bom, possível retomada.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume alto, indecisão no topo.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço com volume moderado.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, com volume em crescimento.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Leve queda, mas preço em patamar alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço com bom volume.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta com volume alto, indicando força.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Leve queda após forte alta, pode ser realização de lucros.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Reversão para alta com volume forte.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda no preço com volume alto, sinal de cautela.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Continuação da queda leve, volume estável.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda de preço e volume, sem clareza.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume moderado, possível recuperação.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta forte no preço com bom volume.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável com volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve, volume estável.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda no preço com volume baixo, sem forte convicção.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta forte no preço, volume bom, retomada de alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta no preço com bom volume.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Preço em alta, volume crescente.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda após forte alta, volume alto, pode ser realização.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Retomada da alta, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta, bom volume, continuidade da tendência.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Leve queda após alta, volume significativo, sinal de alerta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável com volume reduzido, indecisão.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável, volume baixo.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço sobe, mas volume baixo, sem forte convicção.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Grande alta no preço com volume extremamente baixo, desconsiderar.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável com volume médio.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço em queda, volume bom, cautela.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço com volume bom, reversão.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço com volume crescente.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, bom volume.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço com volume alto, sinal de pressão.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Forte queda com volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda acentuada com volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda brusca com volume muito alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda contínua, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda abrupta com volume muito alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta no preço com volume muito alto, pode ser fundo.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável, volume menor, aguardar confirmação.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço com volume muito bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve, mas volume alto, indecisão.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável com volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda de preço com volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda no preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço com volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta no preço com volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve, mas volume alto, pode ser realização.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Leve alta com volume menor.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Forte queda no preço com volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda de preço com volume baixo, sem confirmação.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável, volume bom, aguardar.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável com volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço com volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda de preço com volume baixo, desconsiderar volume zero.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável, volume médio.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável, volume médio.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço com volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço com volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço com volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta com volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável, volume considerável.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável, volume alto, sem direção.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço com volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume moderado.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável em volume muito baixo, aguardar.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume considerável.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve, volume normal.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço com volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável, volume normal.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda de preço com volume baixo, desconsiderar volume zero.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço com volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta no preço com volume muito alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume crescente.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Continuação da alta, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume muito bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Preço em alta, volume forte.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Preço em alta com volume crescente.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Preço em alta, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta no preço, volume muito bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Leve queda, mas volume alto, pode ser realização.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume moderado.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2010-10-18
+Decisão: COMPRAR
+Justificativa: Forte alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2010-10-19
+Decisão: MANTER
+Justificativa: Queda leve no preço, mas volume alto, indecisão.
+
+Ticker: VALE3.SA
+Data: 2010-10-20
+Decisão: COMPRAR
+Justificativa: Forte alta no preço com volume bom.
+
+Ticker: VALE3.SA
+Data: 2010-10-21
+Decisão: MANTER
+Justificativa: Queda leve no preço, volume alto, pode ser realização.
+
+Ticker: VALE3.SA
+Data: 2010-10-22
+Decisão: MANTER
+Justificativa: Preço estável com volume alto.
+
+Ticker: VALE3.SA
+Data: 2010-10-25
+Decisão: MANTER
+Justificativa: Preço estável, volume bom.
+
+Ticker: VALE3.SA
+Data: 2010-10-26
+Decisão: COMPRAR
+Justificativa: Alta no preço com volume bom.
+
+Ticker: VALE3.SA
+Data: 2010-10-27
+Decisão: MANTER
+Justificativa: Preço estável, volume alto.
+
+Ticker: VALE3.SA
+Data: 2010-10-28
+Decisão: VENDER
+Justificativa: Forte queda no preço com volume alto.
+
+Ticker: VALE3.SA
+Data: 2010-10-29
+Decisão: MANTER
+Justificativa: Preço estável, volume alto, sem direção clara.
+
+Ticker: VALE3.SA
+Data: 2010-11-01
+Decisão: COMPRAR
+Justificativa: Alta no preço com volume bom.
+
+Ticker: VALE3.SA
+Data: 2010-11-03
+Decisão: MANTER
+Justificativa: Queda de preço, mas volume alto, indecisão.
+
+Ticker: VALE3.SA
+Data: 2010-11-04
+Decisão: COMPRAR
+Justificativa: Forte alta no preço com volume bom.
+
+Ticker: VALE3.SA
+Data: 2010-11-05
+Decisão: COMPRAR
+Justificativa: Continuação da alta, volume bom.
+
+Ticker: VALE3.SA
+Data: 2010-11-08
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume moderado.
+
+Ticker: VALE3.SA
+Data: 2010-11-09
+Decisão: MANTER
+Justificativa: Queda leve, volume bom.
+
+Ticker: VALE3.SA
+Data: 2010-11-10
+Decisão: MANTER
+Justificativa: Preço estável, volume normal.
+
+Ticker: VALE3.SA
+Data: 2010-11-11
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2010-11-12
+Decisão: MANTER
+Justificativa: Preço estável, volume bom.
+
+Ticker: VALE3.SA
+Data: 2010-11-16
+Decisão: VENDER
+Justificativa: Queda forte no preço com volume bom.
+
+Ticker: VALE3.SA
+Data: 2010-11-17
+Decisão: VENDER
+Justificativa: Queda de preço, volume baixo, sinal de fraqueza.
+
+Ticker: VALE3.SA
+Data: 2010-11-18
+Decisão: COMPRAR
+Justificativa: Alta no preço com volume bom.
+
+Ticker: VALE3.SA
+Data: 2010-11-19
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume crescente.
+
+Ticker: VALE3.SA
+Data: 2010-11-22
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2010-11-23
+Decisão: VENDER
+Justificativa: Queda de preço com volume bom.
+
+Ticker: VALE3.SA
+Data: 2010-11-24
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume moderado, reversão.
+
+Ticker: VALE3.SA
+Data: 2010-11-25
+Decisão: MANTER
+Justificativa: Queda leve no preço, volume muito baixo, indecisão.
+
+Ticker: VALE3.SA
+Data: 2010-11-26
+Decisão: VENDER
+Justificativa: Queda de preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2010-11-29
+Decisão: COMPRAR
+Justificativa: Alta no preço com volume forte.
+
+Ticker: VALE3.SA
+Data: 2010-11-30
+Decisão: VENDER
+Justificativa: Queda no preço com volume alto.
+
+Ticker: VALE3.SA
+Data: 2010-12-01
+Decisão: COMPRAR
+Justificativa: Alta no preço com volume bom.
+
+Ticker: VALE3.SA
+Data: 2010-12-02
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2010-12-03
+Decisão: COMPRAR
+Justificativa: Forte alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2010-12-06
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume baixo, mas mantém a tendência.
+
+Ticker: VALE3.SA
+Data: 2010-12-07
+Decisão: VENDER
+Justificativa: Queda no preço, volume moderado.
+
+Ticker: VALE3.SA
+Data: 2010-12-08
+Decisão: VENDER
+Justificativa: Forte queda no preço, volume alto.
+
+Ticker: VALE3.SA
+Data: 2010-12-09
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom, possível recuperação.
+
+Ticker: VALE3.SA
+Data: 2010-12-10
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2010-12-13
+Decisão: COMPRAR
+Justificativa: Forte alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2010-12-14
+Decisão: MANTER
+Justificativa: Queda leve, volume moderado, pode ser realização.
+
+Ticker: VALE3.SA
+Data: 2010-12-15
+Decisão: VENDER
+Justificativa: Queda de preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2010-12-16
+Decisão: MANTER
+Justificativa: Queda leve, volume bom.
+
+Ticker: VALE3.SA
+Data: 2010-12-17
+Decisão: MANTER
+Justificativa: Preço estável, volume bom.
+
+Ticker: VALE3.SA
+Data: 2010-12-20
+Decisão: VENDER
+Justificativa: Queda de preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2010-12-21
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2010-12-22
+Decisão: MANTER
+Justificativa: Preço estável, volume moderado.
+
+Ticker: VALE3.SA
+Data: 2010-12-23
+Decisão: MANTER
+Justificativa: Preço estável, volume baixo.
+
+Ticker: VALE3.SA
+Data: 2010-12-27
+Decisão: VENDER
+Justificativa: Queda de preço forte, volume bom.
+
+Ticker: VALE3.SA
+Data: 2010-12-28
+Decisão: VENDER
+Justificativa: Queda de preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2010-12-29
+Decisão: MANTER
+Justificativa: Preço estável, volume bom, sem direção clara.
+
+Ticker: VALE3.SA
+Data: 2010-12-30
+Decisão: MANTER
+Justificativa: Preço estável, volume alto.
+
+Ticker: VALE3.SA
+Data: 2011-01-03
+Decisão: COMPRAR
+Justificativa: Forte alta no preço, volume muito alto.
+
+Ticker: VALE3.SA
+Data: 2011-01-04
+Decisão: COMPRAR
+Justificativa: Forte alta no preço, volume alto.
+
+Ticker: VALE3.SA
+Data: 2011-01-05
+Decisão: COMPRAR
+Justificativa: Forte alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2011-01-06
+Decisão: MANTER
+Justificativa: Queda leve, mas volume bom, pode ser realização.
+
+Ticker: VALE3.SA
+Data: 2011-01-07
+Decisão: MANTER
+Justificativa: Queda leve, volume bom.
+
+Ticker: VALE3.SA
+Data: 2011-01-10
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2011-01-11
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2011-01-12
+Decisão: COMPRAR
+Justificativa: Forte alta no preço, volume muito bom.
+
+Ticker: VALE3.SA
+Data: 2011-01-13
+Decisão: MANTER
+Justificativa: Queda leve, volume bom, pode ser realização.
+
+Ticker: VALE3.SA
+Data: 2011-01-14
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2011-01-17
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume baixo.
+
+Ticker: VALE3.SA
+Data: 2011-01-18
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2011-01-19
+Decisão: VENDER
+Justificativa: Queda de preço com volume bom.
+
+Ticker: VALE3.SA
+Data: 2011-01-20
+Decisão: VENDER
+Justificativa: Forte queda no preço, volume alto.
+
+Ticker: VALE3.SA
+Data: 2011-01-21
+Decisão: MANTER
+Justificativa: Preço estável, volume moderado.
+
+Ticker: VALE3.SA
+Data: 2011-01-24
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume moderado.
+
+Ticker: VALE3.SA
+Data: 2011-01-26
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2011-01-27
+Decisão: VENDER
+Justificativa: Queda de preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2011-01-28
+Decisão: VENDER
+Justificativa: Forte queda no preço, volume alto.
+
+Ticker: VALE3.SA
+Data: 2011-01-31
+Decisão: MANTER
+Justificativa: Preço estável, volume bom, aguardar.
+
+Ticker: VALE3.SA
+Data: 2011-02-01
+Decisão: MANTER
+Justificativa: Alta no preço, mas volume extremamente baixo, não confiável.
+
+Ticker: VALE3.SA
+Data: 2011-02-02
+Decisão: VENDER
+Justificativa: Queda de preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2011-02-03
+Decisão: MANTER
+Justificativa: Queda de preço, mas volume extremamente baixo, não confiável.
+
+Ticker: VALE3.SA
+Data: 2011-02-04
+Decisão: VENDER
+Justificativa: Queda de preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2011-02-07
+Decisão: MANTER
+Justificativa: Preço estável, volume bom.
+
+Ticker: VALE3.SA
+Data: 2011-02-08
+Decisão: MANTER
+Justificativa: Queda leve, mas volume extremamente baixo, não confiável.
+
+Ticker: VALE3.SA
+Data: 2011-02-09
+Decisão: VENDER
+Justificativa: Forte queda no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2011-02-10
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume forte, possível recuperação.
+
+Ticker: VALE3.SA
+Data: 2011-02-11
+Decisão: COMPRAR
+Justificativa: Forte alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2011-02-14
+Decisão: COMPRAR
+Justificativa: Forte alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2011-02-15
+Decisão: MANTER
+Justificativa: Preço estável, volume bom.
+
+Ticker: VALE3.SA
+Data: 2011-02-16
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2011-02-17
+Decisão: MANTER
+Justificativa: Preço estável, volume bom.
+
+Ticker: VALE3.SA
+Data: 2011-02-18
+Decisão: VENDER
+Justificativa: Queda de preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Forte queda no preço, volume muito baixo.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Forte queda no preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom, possível reversão.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço inalterado, volume zero, sem negociação.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom, recuperação.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço inalterado, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço inalterado, volume zero, sem negociação.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Forte queda no preço, volume muito alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume forte.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável, volume extremamente baixo, não confiável.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável, volume extremamente baixo, não confiável.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço inalterado, volume zero, sem negociação.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda no preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda forte no preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda no preço, volume muito alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume muito alto, pode ser fundo.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável, volume extremamente baixo, não confiável.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço inalterado, volume zero, sem negociação.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço inalterado, volume zero, sem negociação.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Preço estável, volume alto, indicando suporte.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume moderado.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume muito baixo.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Forte queda no preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Forte queda no preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Forte queda no preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom, possível recuperação.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda no preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda no preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta no preço, volume muito alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Continuação da alta, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda no preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável, volume alto.
+
+Ticker: VALE3.SA
+Data: 2011-10-17
+Decisão: VENDER
+Justificativa: Forte queda no preço, volume alto.
+
+Ticker: VALE3.SA
+Data: 2011-10-18
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume alto, possível recuperação.
+
+Ticker: VALE3.SA
+Data: 2011-10-19
+Decisão: VENDER
+Justificativa: Queda de preço, volume muito alto.
+
+Ticker: VALE3.SA
+Data: 2011-10-20
+Decisão: VENDER
+Justificativa: Queda de preço, volume alto.
+
+Ticker: VALE3.SA
+Data: 2011-10-21
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom, reversão.
+
+Ticker: VALE3.SA
+Data: 2011-10-24
+Decisão: COMPRAR
+Justificativa: Forte alta no preço, volume alto.
+
+Ticker: VALE3.SA
+Data: 2011-10-25
+Decisão: MANTER
+Justificativa: Preço inalterado, volume zero, sem negociação.
+
+Ticker: VALE3.SA
+Data: 2011-10-26
+Decisão: MANTER
+Justificativa: Preço inalterado, volume zero, sem negociação.
+
+Ticker: VALE3.SA
+Data: 2011-10-27
+Decisão: MANTER
+Justificativa: Preço inalterado, volume zero, sem negociação.
+
+Ticker: VALE3.SA
+Data: 2011-10-28
+Decisão: COMPRAR
+Justificativa: Forte alta no preço, volume muito alto.
+
+Ticker: VALE3.SA
+Data: 2011-10-31
+Decisão: MANTER
+Justificativa: Queda leve, volume bom.
+
+Ticker: VALE3.SA
+Data: 2011-11-01
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume alto.
+
+Ticker: VALE3.SA
+Data: 2011-11-03
+Decisão: COMPRAR
+Justificativa: Forte alta no preço, volume alto.
+
+Ticker: VALE3.SA
+Data: 2011-11-04
+Decisão: COMPRAR
+Justificativa: Forte alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2011-11-07
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2011-11-08
+Decisão: VENDER
+Justificativa: Queda de preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2011-11-09
+Decisão: VENDER
+Justificativa: Queda de preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2011-11-10
+Decisão: MANTER
+Justificativa: Preço inalterado, volume zero, sem negociação.
+
+Ticker: VALE3.SA
+Data: 2011-11-11
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2011-11-14
+Decisão: MANTER
+Justificativa: Preço estável, volume baixo.
+
+Ticker: VALE3.SA
+Data: 2011-11-16
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2011-11-17
+Decisão: VENDER
+Justificativa: Queda de preço, volume alto.
+
+Ticker: VALE3.SA
+Data: 2011-11-18
+Decisão: VENDER
+Justificativa: Queda de preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2011-11-21
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume muito alto, possível reversão.
+
+Ticker: VALE3.SA
+Data: 2011-11-22
+Decisão: MANTER
+Justificativa: Queda leve, volume bom.
+
+Ticker: VALE3.SA
+Data: 2011-11-23
+Decisão: VENDER
+Justificativa: Queda de preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2011-11-24
+Decisão: MANTER
+Justificativa: Queda leve, volume baixo, sem clareza.
+
+Ticker: VALE3.SA
+Data: 2011-11-25
+Decisão: VENDER
+Justificativa: Queda de preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2011-11-28
+Decisão: VENDER
+Justificativa: Queda de preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2011-11-29
+Decisão: VENDER
+Justificativa: Queda de preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2011-11-30
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume muito alto, possível recuperação.
+
+Ticker: VALE3.SA
+Data: 2011-12-01
+Decisão: VENDER
+Justificativa: Queda de preço, volume alto.
+
+Ticker: VALE3.SA
+Data: 2011-12-02
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2011-12-05
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2011-12-06
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2011-12-07
+Decisão: VENDER
+Justificativa: Forte queda no preço, volume muito alto.
+
+Ticker: VALE3.SA
+Data: 2011-12-08
+Decisão: VENDER
+Justificativa: Queda de preço, volume alto.
+
+Ticker: VALE3.SA
+Data: 2011-12-09
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2011-12-12
+Decisão: MANTER
+Justificativa: Preço inalterado, volume zero, sem negociação.
+
+Ticker: VALE3.SA
+Data: 2011-12-13
+Decisão: VENDER
+Justificativa: Queda de preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2011-12-14
+Decisão: VENDER
+Justificativa: Queda de preço, volume alto.
+
+Ticker: VALE3.SA
+Data: 2011-12-15
+Decisão: VENDER
+Justificativa: Queda de preço, volume alto.
+
+Ticker: VALE3.SA
+Data: 2011-12-16
+Decisão: VENDER
+Justificativa: Queda de preço, volume alto.
+
+Ticker: VALE3.SA
+Data: 2011-12-19
+Decisão: VENDER
+Justificativa: Queda de preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2011-12-20
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom, possível recuperação.
+
+Ticker: VALE3.SA
+Data: 2011-12-21
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2011-12-22
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2011-12-23
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2011-12-26
+Decisão: MANTER
+Justificativa: Preço estável, volume muito baixo, sem convicção.
+
+Ticker: VALE3.SA
+Data: 2011-12-27
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2011-12-28
+Decisão: VENDER
+Justificativa: Forte queda no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2011-12-29
+Decisão: VENDER
+Justificativa: Queda de preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2012-01-02
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom, reversão.
+
+Ticker: VALE3.SA
+Data: 2012-01-03
+Decisão: COMPRAR
+Justificativa: Forte alta no preço, volume muito alto.
+
+Ticker: VALE3.SA
+Data: 2012-01-04
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2012-01-05
+Decisão: VENDER
+Justificativa: Queda de preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2012-01-06
+Decisão: VENDER
+Justificativa: Queda de preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2012-01-09
+Decisão: VENDER
+Justificativa: Queda de preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2012-01-10
+Decisão: VENDER
+Justificativa: Queda de preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2012-01-11
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2012-01-12
+Decisão: VENDER
+Justificativa: Queda de preço, volume alto.
+
+Ticker: VALE3.SA
+Data: 2012-01-13
+Decisão: VENDER
+Justificativa: Queda de preço, volume muito alto.
+
+Ticker: VALE3.SA
+Data: 2012-01-16
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom, possível recuperação.
+
+Ticker: VALE3.SA
+Data: 2012-01-17
+Decisão: MANTER
+Justificativa: Preço inalterado, volume zero, sem negociação.
+
+Ticker: VALE3.SA
+Data: 2012-01-18
+Decisão: COMPRAR
+Justificativa: Forte alta no preço, volume muito alto.
+
+Ticker: VALE3.SA
+Data: 2012-01-19
+Decisão: MANTER
+Justificativa: Queda leve, volume bom, pode ser realização.
+
+Ticker: VALE3.SA
+Data: 2012-01-20
+Decisão: MANTER
+Justificativa: Preço estável, volume bom.
+
+Ticker: VALE3.SA
+Data: 2012-01-23
+Decisão: VENDER
+Justificativa: Queda de preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2012-01-24
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume alto.
+
+Ticker: VALE3.SA
+Data: 2012-01-26
+Decisão: VENDER
+Justificativa: Queda de preço, volume alto.
+
+Ticker: VALE3.SA
+Data: 2012-01-27
+Decisão: MANTER
+Justificativa: Preço estável, volume bom.
+
+Ticker: VALE3.SA
+Data: 2012-01-30
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2012-01-31
+Decisão: COMPRAR
+Justificativa: Forte alta no preço, volume alto.
+
+Ticker: VALE3.SA
+Data: 2012-02-01
+Decisão: COMPRAR
+Justificativa: Forte alta no preço, volume alto.
+
+Ticker: VALE3.SA
+Data: 2012-02-02
+Decisão: MANTER
+Justificativa: Preço estável, volume bom.
+
+Ticker: VALE3.SA
+Data: 2012-02-03
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2012-02-06
+Decisão: MANTER
+Justificativa: Preço estável, volume baixo.
+
+Ticker: VALE3.SA
+Data: 2012-02-07
+Decisão: MANTER
+Justificativa: Preço estável, volume bom.
+
+Ticker: VALE3.SA
+Data: 2012-02-08
+Decisão: VENDER
+Justificativa: Queda de preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2012-02-09
+Decisão: VENDER
+Justificativa: Queda de preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2012-02-10
+Decisão: VENDER
+Justificativa: Queda de preço, volume alto.
+
+Ticker: VALE3.SA
+Data: 2012-02-13
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom, possível recuperação.
+
+Ticker: VALE3.SA
+Data: 2012-02-14
+Decisão: VENDER
+Justificativa: Queda de preço, volume alto.
+
+Ticker: VALE3.SA
+Data: 2012-02-15
+Decisão: VENDER
+Justificativa: Forte queda no preço, volume alto.
+
+Ticker: VALE3.SA
+Data: 2012-02-16
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume alto.
+
+Ticker: VALE3.SA
+Data: 2012-02-17
+Decisão: VENDER
+Justificativa: Queda de preço, volume alto.
+
+Ticker: VALE3.SA
+Data: 2012-02-23
+Decisão: COMPRAR
+Justificativa: Forte alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2012-02-24
+Decisão: MANTER
+Justificativa: Preço estável, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Forte queda no preço, volume muito alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Forte queda no preço, volume muito alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume muito alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta no preço, volume muito alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço inalterado, volume zero, sem negociação.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume muito alto, possível recuperação.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta no preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Forte queda no preço, volume muito alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume alto, possível recuperação.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta no preço, volume muito alto, recuperação.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda forte no preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Forte queda no preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Forte queda no preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável, volume baixo.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume muito alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço inalterado, volume zero, sem negociação.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta no preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume muito alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável, volume baixo.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Forte queda no preço, volume muito alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Forte queda no preço, volume muito alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume muito alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume alto, possível recuperação.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço inalterado, volume zero, sem negociação.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Forte queda no preço, volume muito alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta no preço, volume muito alto, possível reversão.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta no preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume muito alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Forte queda no preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve, volume baixo.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume muito alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume muito alto, possível reversão.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta no preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável, volume muito alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume muito alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume muito alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume muito alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume muito alto, reversão.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume muito alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Forte queda no preço, volume muito alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume alto, possível recuperação.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta no preço, volume muito alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume muito alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço inalterado, volume zero, sem negociação.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta no preço, volume muito alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Forte queda no preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Forte queda no preço, volume muito alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Forte queda no preço, volume muito alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Forte queda no preço, volume muito alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume muito alto, possível recuperação.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume muito alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta no preço, volume muito alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço inalterado, volume zero, sem negociação.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta no preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Forte queda no preço, volume muito alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume muito alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Forte queda no preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume alto, possível recuperação.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta no preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta no preço, volume muito alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta no preço, volume muito alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Forte queda no preço, volume alto.
+
+Ticker: VALE3.SA
+Data: 2012-10-22
+Decisão: MANTER
+Justificativa: Preço estável, volume bom.
+
+Ticker: VALE3.SA
+Data: 2012-10-23
+Decisão: VENDER
+Justificativa: Queda de preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2012-10-24
+Decisão: VENDER
+Justificativa: Queda de preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2012-10-25
+Decisão: COMPRAR
+Justificativa: Forte alta no preço, volume alto, reversão.
+
+Ticker: VALE3.SA
+Data: 2012-10-26
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2012-10-29
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume baixo, mas mantém a tendência.
+
+Ticker: VALE3.SA
+Data: 2012-10-30
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume baixo, mas mantém a tendência.
+
+Ticker: VALE3.SA
+Data: 2012-10-31
+Decisão: COMPRAR
+Justificativa: Preço estável, mas volume alto, indicando força.
+
+Ticker: VALE3.SA
+Data: 2012-11-01
+Decisão: COMPRAR
+Justificativa: Forte alta no preço, volume muito alto.
+
+Ticker: VALE3.SA
+Data: 2012-11-05
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2012-11-06
+Decisão: MANTER
+Justificativa: Preço estável, volume alto.
+
+Ticker: VALE3.SA
+Data: 2012-11-07
+Decisão: VENDER
+Justificativa: Queda de preço, volume muito alto.
+
+Ticker: VALE3.SA
+Data: 2012-11-08
+Decisão: VENDER
+Justificativa: Forte queda no preço, volume muito alto.
+
+Ticker: VALE3.SA
+Data: 2012-11-09
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2012-11-12
+Decisão: MANTER
+Justificativa: Queda leve, volume bom.
+
+Ticker: VALE3.SA
+Data: 2012-11-13
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume alto.
+
+Ticker: VALE3.SA
+Data: 2012-11-14
+Decisão: VENDER
+Justificativa: Queda de preço, volume alto.
+
+Ticker: VALE3.SA
+Data: 2012-11-16
+Decisão: VENDER
+Justificativa: Forte queda no preço, volume muito alto.
+
+Ticker: VALE3.SA
+Data: 2012-11-19
+Decisão: MANTER
+Justificativa: Preço estável, volume bom, aguardar.
+
+Ticker: VALE3.SA
+Data: 2012-11-21
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume muito alto, possível reversão.
+
+Ticker: VALE3.SA
+Data: 2012-11-22
+Decisão: MANTER
+Justificativa: Queda leve, volume muito baixo, indecisão.
+
+Ticker: VALE3.SA
+Data: 2012-11-23
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2012-11-26
+Decisão: VENDER
+Justificativa: Queda de preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2012-11-27
+Decisão: VENDER
+Justificativa: Queda de preço, volume alto.
+
+Ticker: VALE3.SA
+Data: 2012-11-28
+Decisão: VENDER
+Justificativa: Queda de preço, volume muito alto.
+
+Ticker: VALE3.SA
+Data: 2012-11-29
+Decisão: COMPRAR
+Justificativa: Forte alta no preço, volume alto, reversão.
+
+Ticker: VALE3.SA
+Data: 2012-11-30
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume alto.
+
+Ticker: VALE3.SA
+Data: 2012-12-03
+Decisão: MANTER
+Justificativa: Queda leve, volume alto.
+
+Ticker: VALE3.SA
+Data: 2012-12-04
+Decisão: VENDER
+Justificativa: Queda de preço, volume alto.
+
+Ticker: VALE3.SA
+Data: 2012-12-05
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume alto.
+
+Ticker: VALE3.SA
+Data: 2012-12-06
+Decisão: MANTER
+Justificativa: Preço estável, volume bom.
+
+Ticker: VALE3.SA
+Data: 2012-12-07
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2012-12-10
+Decisão: COMPRAR
+Justificativa: Forte alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2012-12-11
+Decisão: COMPRAR
+Justificativa: Forte alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2012-12-12
+Decisão: COMPRAR
+Justificativa: Forte alta no preço, volume muito alto.
+
+Ticker: VALE3.SA
+Data: 2012-12-13
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2012-12-14
+Decisão: COMPRAR
+Justificativa: Forte alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2012-12-17
+Decisão: COMPRAR
+Justificativa: Forte alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2012-12-18
+Decisão: COMPRAR
+Justificativa: Forte alta no preço, volume muito alto.
+
+Ticker: VALE3.SA
+Data: 2012-12-19
+Decisão: VENDER
+Justificativa: Queda de preço, volume alto.
+
+Ticker: VALE3.SA
+Data: 2012-12-20
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2012-12-21
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2012-12-26
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume baixo.
+
+Ticker: VALE3.SA
+Data: 2012-12-27
+Decisão: MANTER
+Justificativa: Preço estável, volume bom.
+
+Ticker: VALE3.SA
+Data: 2012-12-28
+Decisão: MANTER
+Justificativa: Queda leve, volume bom.
+
+Ticker: VALE3.SA
+Data: 2013-01-02
+Decisão: COMPRAR
+Justificativa: Forte alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2013-01-03
+Decisão: MANTER
+Justificativa: Queda leve, volume alto.
+
+Ticker: VALE3.SA
+Data: 2013-01-04
+Decisão: VENDER
+Justificativa: Queda de preço, volume alto.
+
+Ticker: VALE3.SA
+Data: 2013-01-07
+Decisão: VENDER
+Justificativa: Queda de preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2013-01-08
+Decisão: VENDER
+Justificativa: Queda de preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2013-01-09
+Decisão: MANTER
+Justificativa: Preço estável, volume bom.
+
+Ticker: VALE3.SA
+Data: 2013-01-10
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2013-01-11
+Decisão: VENDER
+Justificativa: Queda de preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2013-01-14
+Decisão: VENDER
+Justificativa: Queda de preço, volume alto.
+
+Ticker: VALE3.SA
+Data: 2013-01-15
+Decisão: VENDER
+Justificativa: Queda de preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2013-01-16
+Decisão: VENDER
+Justificativa: Queda de preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2013-01-17
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2013-01-18
+Decisão: VENDER
+Justificativa: Queda de preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2013-01-21
+Decisão: MANTER
+Justificativa: Preço estável, volume muito baixo.
+
+Ticker: VALE3.SA
+Data: 2013-01-22
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2013-01-23
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2013-01-24
+Decisão: VENDER
+Justificativa: Forte queda no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2013-01-28
+Decisão: VENDER
+Justificativa: Forte queda no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2013-01-29
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom, possível recuperação.
+
+Ticker: VALE3.SA
+Data: 2013-01-30
+Decisão: VENDER
+Justificativa: Queda de preço, volume alto.
+
+Ticker: VALE3.SA
+Data: 2013-01-31
+Decisão: COMPRAR
+Justificativa: Forte alta no preço, volume alto.
+
+Ticker: VALE3.SA
+Data: 2013-02-01
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2013-02-04
+Decisão: MANTER
+Justificativa: Queda leve, volume alto, indecisão.
+
+Ticker: VALE3.SA
+Data: 2013-02-05
+Decisão: VENDER
+Justificativa: Queda de preço, volume alto.
+
+Ticker: VALE3.SA
+Data: 2013-02-06
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2013-02-07
+Decisão: VENDER
+Justificativa: Queda de preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2013-02-08
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2013-02-13
+Decisão: VENDER
+Justificativa: Queda de preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2013-02-14
+Decisão: VENDER
+Justificativa: Queda de preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2013-02-15
+Decisão: VENDER
+Justificativa: Queda de preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Forte queda no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume alto, possível recuperação.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Forte queda no preço, volume muito alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta no preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta no preço, volume muito alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta no preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Forte queda no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume muito alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta no preço, volume alto, reversão.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta no preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Forte queda no preço, volume muito alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume alto, possível recuperação.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Forte queda no preço, volume muito alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Forte queda no preço, volume muito alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume alto, possível recuperação.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta no preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume muito alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Forte queda no preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Forte queda no preço, volume muito alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom, possível recuperação.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta no preço, volume muito alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço inalterado, volume zero, sem negociação.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta no preço, volume muito alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom, possível recuperação.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta no preço, volume muito alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta no preço, volume muito alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Forte queda no preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Forte queda no preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta no preço, volume muito alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Forte queda no preço, volume muito alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Forte queda no preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume muito alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta no preço, volume muito alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda de preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta no preço, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável, volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume muito alto.
+
+Ticker: VALE3.SA
+Data: 2013-10-21
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2013-10-22
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2013-10-23
+Decisão: VENDER
+Justificativa: Queda de preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2013-10-24
+Decisão: MANTER
+Justificativa: Preço estável, volume bom.
+
+Ticker: VALE3.SA
+Data: 2013-10-25
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume muito alto, possível reversão.
+
+Ticker: VALE3.SA
+Data: 2013-10-28
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2013-10-29
+Decisão: VENDER
+Justificativa: Queda de preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2013-10-30
+Decisão: VENDER
+Justificativa: Queda de preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2013-10-31
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume alto.
+
+Ticker: VALE3.SA
+Data: 2013-11-01
+Decisão: COMPRAR
+Justificativa: Forte alta no preço, volume alto.
+
+Ticker: VALE3.SA
+Data: 2013-11-04
+Decisão: COMPRAR
+Justificativa: Forte alta no preço, volume alto.
+
+Ticker: VALE3.SA
+Data: 2013-11-05
+Decisão: MANTER
+Justificativa: Queda leve, volume alto.
+
+Ticker: VALE3.SA
+Data: 2013-11-06
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume alto.
+
+Ticker: VALE3.SA
+Data: 2013-11-07
+Decisão: VENDER
+Justificativa: Forte queda no preço, volume muito alto.
+
+Ticker: VALE3.SA
+Data: 2013-11-08
+Decisão: VENDER
+Justificativa: Queda de preço, volume alto.
+
+Ticker: VALE3.SA
+Data: 2013-11-11
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2013-11-12
+Decisão: VENDER
+Justificativa: Forte queda no preço, volume muito alto.
+
+Ticker: VALE3.SA
+Data: 2013-11-13
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume muito alto, possível recuperação.
+
+Ticker: VALE3.SA
+Data: 2013-11-14
+Decisão: MANTER
+Justificativa: Preço estável, volume bom.
+
+Ticker: VALE3.SA
+Data: 2013-11-18
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2013-11-19
+Decisão: VENDER
+Justificativa: Queda de preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2013-11-21
+Decisão: MANTER
+Justificativa: Preço estável, volume bom.
+
+Ticker: VALE3.SA
+Data: 2013-11-22
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2013-11-25
+Decisão: VENDER
+Justificativa: Queda de preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2013-11-26
+Decisão: VENDER
+Justificativa: Forte queda no preço, volume alto.
+
+Ticker: VALE3.SA
+Data: 2013-11-27
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume alto, possível recuperação.
+
+Ticker: VALE3.SA
+Data: 2013-11-28
+Decisão: MANTER
+Justificativa: Preço estável, volume baixo.
+
+Ticker: VALE3.SA
+Data: 2013-11-29
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2013-12-02
+Decisão: MANTER
+Justificativa: Preço estável, volume alto.
+
+Ticker: VALE3.SA
+Data: 2013-12-03
+Decisão: MANTER
+Justificativa: Preço estável, volume bom.
+
+Ticker: VALE3.SA
+Data: 2013-12-04
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2013-12-05
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2013-12-06
+Decisão: VENDER
+Justificativa: Queda de preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2013-12-09
+Decisão: MANTER
+Justificativa: Preço estável, volume bom.
+
+Ticker: VALE3.SA
+Data: 2013-12-10
+Decisão: VENDER
+Justificativa: Queda de preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2013-12-11
+Decisão: VENDER
+Justificativa: Queda de preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2013-12-12
+Decisão: VENDER
+Justificativa: Queda de preço, volume alto.
+
+Ticker: VALE3.SA
+Data: 2013-12-13
+Decisão: VENDER
+Justificativa: Queda de preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2013-12-16
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2013-12-17
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2013-12-18
+Decisão: MANTER
+Justificativa: Queda leve, volume alto, indecisão.
+
+Ticker: VALE3.SA
+Data: 2013-12-19
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2013-12-20
+Decisão: VENDER
+Justificativa: Queda de preço, volume alto.
+
+Ticker: VALE3.SA
+Data: 2013-12-23
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume baixo.
+
+Ticker: VALE3.SA
+Data: 2013-12-26
+Decisão: MANTER
+Justificativa: Preço estável, volume bom.
+
+Ticker: VALE3.SA
+Data: 2013-12-27
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume alto.
+
+Ticker: VALE3.SA
+Data: 2013-12-30
+Decisão: MANTER
+Justificativa: Queda leve, volume bom.
+
+Ticker: VALE3.SA
+Data: 2014-01-02
+Decisão: VENDER
+Justificativa: Forte queda no preço, volume alto.
+
+Ticker: VALE3.SA
+Data: 2014-01-03
+Decisão: VENDER
+Justificativa: Forte queda no preço, volume muito alto.
+
+Ticker: VALE3.SA
+Data: 2014-01-06
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom, possível recuperação.
+
+Ticker: VALE3.SA
+Data: 2014-01-07
+Decisão: VENDER
+Justificativa: Forte queda no preço, volume alto.
+
+Ticker: VALE3.SA
+Data: 2014-01-08
+Decisão: MANTER
+Justificativa: Preço estável, volume bom.
+
+Ticker: VALE3.SA
+Data: 2014-01-09
+Decisão: VENDER
+Justificativa: Forte queda no preço, volume alto.
+
+Ticker: VALE3.SA
+Data: 2014-01-10
+Decisão: MANTER
+Justificativa: Preço estável, volume bom.
+
+Ticker: VALE3.SA
+Data: 2014-01-13
+Decisão: MANTER
+Justificativa: Preço estável, volume bom.
+
+Ticker: VALE3.SA
+Data: 2014-01-14
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume bom.
+
+Ticker: VALE3.SA
+Data: 2014-01-15
+Decisão: COMPRAR
+Justificativa: Alta no preço, volume alto.
+
+Ticker: VALE3.SA
+Data: 2014-01-16
+Decisão: MANTER
+Justificativa: Queda leve, volume bom.

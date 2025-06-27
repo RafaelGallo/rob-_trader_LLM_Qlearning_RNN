@@ -1,0 +1,11 @@
+Ticker: BRFS3.SA
+Decisão: MANTER
+Justificativa: O preço oscila em torno de 20.50, sem uma tendência clara de alta ou baixa nos últimos dias. O volume também não apresenta sinais significativos.
+
+Ticker: PETR4.SA
+Decisão: VENDER
+Justificativa: Tendência de baixa clara nos últimos dias, com queda consistente do preço e altos volumes de negociação, indicando forte pressão de venda.
+
+Ticker: VALE3.SA
+Decisão: COMPRAR
+Justificativa: Apresenta uma tendência de alta leve, porém consistente nos últimos dias, com o preço se recuperando e o volume diminuindo, sugerindo consolidação após a recuperação.

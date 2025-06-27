@@ -1,0 +1,1316 @@
+Aqui estão as minhas recomendações como seu agente financeiro especialista em ações, com base nos dados fornecidos:
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Primeira observação, sem contexto para decisão.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume menor, tendência incerta.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Consolidação em faixa de preço, sem direção clara.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta com volume crescente, indicando força compradora.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Continuação da alta com volume sustentado, reforçando o otimismo.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Leve recuo com volume menor, indicando possível pausa no rali.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Consolidação lateral/leve baixa com volume moderado.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Indecisão com recuperação modesta, ainda em consolidação.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda com volume baixo, sem alteração de tendência.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço se mantendo na faixa, sem sinais fortes.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta, ainda sem convicção para compra forte.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Rompimento de consolidação com forte alta e volume expressivo.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Leve correção após alta, volume ainda bom, sem reversão.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda com volume baixo, sugere pausa e não reversão.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Retomada da alta com força e volume muito elevado.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda significativa do open, apesar de fechar acima do dia anterior; volume alto indica briga.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Recuperação leve do preço, mas volume diminuiu, sem força para nova compra.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Indecisão com volume elevado, potencial zona de resistência.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Gap de alta seguido por forte queda no dia com volume recorde, sinal de exaustão e pressão vendedora.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Leve recuperação, mas sem a convicção do movimento anterior de venda.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Continuação da pressão vendedora, mas sem desespero.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Forte queda com volume crescente, confirmando o momentum de baixa.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Reação fraca após a queda, ainda sob pressão vendedora.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Boa recuperação, mas sem volume forte que indique reversão de tendência.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena oscilação, sem direção clara após o repique.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda com volume baixo, ainda em fase de indefinição.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena recuperação sem força, ainda no movimento de consolidação/baixa.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Alta moderada, o volume não suporta uma decisão de compra ainda.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Indecisão de preço com aumento de volume, sem sinal claro.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda expressiva com aumento de volume, indicando pressão vendedora.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Recuperação após forte queda, mas com volume decrescente.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta com volume elevado, rompendo resistência e revertendo tendência recente.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda acentuada com volume extremamente alto, sugerindo reversão ou realização de lucros.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Forte recuperação após queda, mas mercado volátil e indeciso.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Leve recuo com volume menor, volatilidade persiste.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda moderada com volume alto, indicando continuação da pressão.
+
+Ticker: PETR4.SA
+Data: 2018-11-05
+Decisão: MANTER
+Justificativa: Recuperação de preço, mas o volume não confirma um forte sinal de compra.
+
+Ticker: PETR4.SA
+Data: 2018-11-06
+Decisão: VENDER
+Justificativa: Queda de preço com volume elevado, revertendo o ganho anterior.
+
+Ticker: PETR4.SA
+Data: 2018-11-07
+Decisão: VENDER
+Justificativa: Continuação da queda com volume alto, reforçando a tendência de baixa.
+
+Ticker: PETR4.SA
+Data: 2018-11-08
+Decisão: VENDER
+Justificativa: Forte aceleração da queda com volume crescente.
+
+Ticker: PETR4.SA
+Data: 2018-11-09
+Decisão: MANTER
+Justificativa: Pequeno repique com volume menor, não altera o cenário de baixa.
+
+Ticker: PETR4.SA
+Data: 2018-11-12
+Decisão: MANTER
+Justificativa: Continuação da consolidação com viés de baixa.
+
+Ticker: PETR4.SA
+Data: 2018-11-13
+Decisão: VENDER
+Justificativa: Queda acentuada com volume crescente, retomada da tendência de baixa.
+
+Ticker: PETR4.SA
+Data: 2018-11-14
+Decisão: MANTER
+Justificativa: Forte repique após queda, mas volume não reverte tendência de imediato.
+
+Ticker: PETR4.SA
+Data: 2018-11-16
+Decisão: MANTER
+Justificativa: Sinais de recuperação, mas ainda cautela em relação à volatilidade.
+
+Ticker: PETR4.SA
+Data: 2018-11-19
+Decisão: MANTER
+Justificativa: Alta leve com volume decrescente, indicando menor força compradora.
+
+Ticker: PETR4.SA
+Data: 2018-11-21
+Decisão: MANTER
+Justificativa: Queda após tentativa de alta, mercado ainda sem direção.
+
+Ticker: PETR4.SA
+Data: 2018-11-22
+Decisão: MANTER
+Justificativa: Pequena oscilação com volume extremamente baixo, sem convicção.
+
+Ticker: PETR4.SA
+Data: 2018-11-23
+Decisão: VENDER
+Justificativa: Queda acentuada com volume crescente, renovando a pressão de baixa.
+
+Ticker: PETR4.SA
+Data: 2018-11-26
+Decisão: MANTER
+Justificativa: Queda discreta com volume menor, ainda sob viés de baixa.
+
+Ticker: PETR4.SA
+Data: 2018-11-27
+Decisão: COMPRAR
+Justificativa: Forte alta com volume expressivo, indicando recuperação.
+
+Ticker: PETR4.SA
+Data: 2018-11-28
+Decisão: MANTER
+Justificativa: Leve recuo após forte alta, sem desfazer o movimento de compra.
+
+Ticker: PETR4.SA
+Data: 2018-11-29
+Decisão: MANTER
+Justificativa: Pequena queda com volume baixo, ainda em consolidação.
+
+Ticker: PETR4.SA
+Data: 2018-11-30
+Decisão: MANTER
+Justificativa: Alta modesta com volume em alta, indicando estabilização.
+
+Ticker: PETR4.SA
+Data: 2018-12-03
+Decisão: MANTER
+Justificativa: Gap de alta seguido por realização de lucros, mostra volatilidade.
+
+Ticker: PETR4.SA
+Data: 2018-12-04
+Decisão: VENDER
+Justificativa: Queda acentuada de preço, sugerindo perda de momentum de alta.
+
+Ticker: PETR4.SA
+Data: 2018-12-05
+Decisão: MANTER
+Justificativa: Leve recuperação com volume fraco, ainda em tendência de baixa.
+
+Ticker: PETR4.SA
+Data: 2018-12-06
+Decisão: VENDER
+Justificativa: Queda significativa com volume alto, indicando continuação da baixa.
+
+Ticker: PETR4.SA
+Data: 2018-12-07
+Decisão: MANTER
+Justificativa: Pequena recuperação após forte queda, sem alteração de tendência.
+
+Ticker: PETR4.SA
+Data: 2018-12-10
+Decisão: VENDER
+Justificativa: Queda acentuada, mantendo o viés de baixa.
+
+Ticker: PETR4.SA
+Data: 2018-12-11
+Decisão: MANTER
+Justificativa: Pequena queda com volume baixo, ainda em downtrend.
+
+Ticker: PETR4.SA
+Data: 2018-12-12
+Decisão: MANTER
+Justificativa: Preço estável, sem sinais de reversão ou aceleração.
+
+Ticker: PETR4.SA
+Data: 2018-12-13
+Decisão: MANTER
+Justificativa: Pequena variação, preço no fundo da consolidação.
+
+Ticker: PETR4.SA
+Data: 2018-12-14
+Decisão: MANTER
+Justificativa: Queda discreta com volume baixo, sem impacto na tendência.
+
+Ticker: PETR4.SA
+Data: 2018-12-17
+Decisão: MANTER
+Justificativa: Queda com volume um pouco maior, mantendo viés de baixa.
+
+Ticker: PETR4.SA
+Data: 2018-12-18
+Decisão: VENDER
+Justificativa: Forte queda de preço com aumento de volume, reforçando a tendência de baixa.
+
+Ticker: PETR4.SA
+Data: 2018-12-19
+Decisão: MANTER
+Justificativa: Volume muito alto com pequena recuperação, indicando alta volatilidade e briga.
+
+Ticker: PETR4.SA
+Data: 2018-12-20
+Decisão: VENDER
+Justificativa: Queda acentuada com volume elevado, confirmando a continuação da tendência de baixa.
+
+Ticker: PETR4.SA
+Data: 2018-12-21
+Decisão: MANTER
+Justificativa: Pequeno repique em meio a uma forte baixa, sem indícios de reversão.
+
+Ticker: PETR4.SA
+Data: 2018-12-26
+Decisão: COMPRAR
+Justificativa: Forte alta de preço após período de baixa, com volume considerável.
+
+Ticker: PETR4.SA
+Data: 2018-12-27
+Decisão: MANTER
+Justificativa: Consolidação de ganhos após alta, sem novos sinais de entrada.
+
+Ticker: PETR4.SA
+Data: 2018-12-28
+Decisão: MANTER
+Justificativa: Continuação da alta, mas com volume decrescente, indicando menor força.
+
+Ticker: PETR4.SA
+Data: 2019-01-02
+Decisão: COMPRAR
+Justificativa: Forte movimento de alta com volume robusto, confirmando a reversão.
+
+Ticker: PETR4.SA
+Data: 2019-01-03
+Decisão: COMPRAR
+Justificativa: Continuação da tendência de alta, mantendo a força compradora.
+
+Ticker: PETR4.SA
+Data: 2019-01-04
+Decisão: MANTER
+Justificativa: Pequena indecisão após fortes ganhos, volume menor.
+
+Ticker: PETR4.SA
+Data: 2019-01-07
+Decisão: COMPRAR
+Justificativa: Retomada da alta com volume elevado, reforçando a tendência de subida.
+
+Ticker: PETR4.SA
+Data: 2019-01-08
+Decisão: MANTER
+Justificativa: Leve correção de preço com volume menor, pausa na alta.
+
+Ticker: PETR4.SA
+Data: 2019-01-09
+Decisão: MANTER
+Justificativa: Recuperação moderada, sem urgência para nova compra.
+
+Ticker: PETR4.SA
+Data: 2019-01-10
+Decisão: MANTER
+Justificativa: Pequena queda com volume baixo, indicando indefinição.
+
+Ticker: PETR4.SA
+Data: 2019-01-11
+Decisão: MANTER
+Justificativa: Queda discreta com volume baixo, ainda em consolidação.
+
+Ticker: PETR4.SA
+Data: 2019-01-14
+Decisão: MANTER
+Justificativa: Pequena variação, preço lateralizando.
+
+Ticker: PETR4.SA
+Data: 2019-01-15
+Decisão: MANTER
+Justificativa: Preço estagnado com volume moderado, sem nova direção.
+
+Ticker: PETR4.SA
+Data: 2019-01-16
+Decisão: MANTER
+Justificativa: Consolidação em volume baixo, sem sinal claro.
+
+Ticker: PETR4.SA
+Data: 2019-01-17
+Decisão: MANTER
+Justificativa: Recuperação leve, mas sem volume expressivo.
+
+Ticker: PETR4.SA
+Data: 2019-01-18
+Decisão: MANTER
+Justificativa: Continuação da recuperação, mas ainda na zona de consolidação.
+
+Ticker: PETR4.SA
+Data: 2019-01-21
+Decisão: MANTER
+Justificativa: Alta discreta com volume baixo, ainda em lateralização.
+
+Ticker: PETR4.SA
+Data: 2019-01-22
+Decisão: MANTER
+Justificativa: Queda leve com volume moderado, sem quebrar a lateralização.
+
+Ticker: PETR4.SA
+Data: 2019-01-23
+Decisão: MANTER
+Justificativa: Pequena alta com volume baixo, sem indicação forte.
+
+Ticker: PETR4.SA
+Data: 2019-01-24
+Decisão: MANTER
+Justificativa: Continua lateralizando com volume muito baixo.
+
+Ticker: PETR4.SA
+Data: 2019-01-28
+Decisão: VENDER
+Justificativa: Queda acentuada com aumento de volume, rompendo consolidação para baixo.
+
+Ticker: PETR4.SA
+Data: 2019-01-29
+Decisão: MANTER
+Justificativa: Recuperação após queda, mas mercado ainda volátil.
+
+Ticker: PETR4.SA
+Data: 2019-01-30
+Decisão: MANTER
+Justificativa: Continuação da recuperação, mas sem volume para justificar compra forte.
+
+Ticker: PETR4.SA
+Data: 2019-01-31
+Decisão: MANTER
+Justificativa: Estabilidade no preço com volume moderado, sem nova direção.
+
+Ticker: PETR4.SA
+Data: 2019-02-01
+Decisão: MANTER
+Justificativa: Leve alta com volume baixo, ainda em consolidação.
+
+Ticker: PETR4.SA
+Data: 2019-02-04
+Decisão: MANTER
+Justificativa: Pequena valorização com volume moderado, indica estabilidade.
+
+Ticker: PETR4.SA
+Data: 2019-02-05
+Decisão: MANTER
+Justificativa: Alta discreta com volume decrescente, sem força para rompimento.
+
+Ticker: PETR4.SA
+Data: 2019-02-06
+Decisão: MANTER
+Justificativa: Queda moderada com volume alto, indicando pressão vendedora.
+
+Ticker: PETR4.SA
+Data: 2019-02-07
+Decisão: MANTER
+Justificativa: Continuação da queda, mas sem volume de pânico.
+
+Ticker: PETR4.SA
+Data: 2019-02-08
+Decisão: MANTER
+Justificativa: Pequeno repique com volume baixo, ainda em lateralização.
+
+Ticker: PETR4.SA
+Data: 2019-02-11
+Decisão: MANTER
+Justificativa: Queda leve com volume baixo, sem sinal de rompimento.
+
+Ticker: PETR4.SA
+Data: 2019-02-12
+Decisão: COMPRAR
+Justificativa: Forte alta com volume elevado, mostrando recuperação da força compradora.
+
+Ticker: PETR4.SA
+Data: 2019-02-13
+Decisão: COMPRAR
+Justificativa: Continuação da tendência de alta, mantendo o bom momentum.
+
+Ticker: PETR4.SA
+Data: 2019-02-14
+Decisão: COMPRAR
+Justificativa: Forte rompimento de patamar de preço com volume crescente.
+
+Ticker: PETR4.SA
+Data: 2019-02-15
+Decisão: MANTER
+Justificativa: Pequena correção com volume menor, não altera o cenário de alta.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena variação com volume baixo, sem nova direção.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Retomada da alta com volume em ascensão, indicando força.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Leve realização de lucros, sem quebrar o momentum de alta recente.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Recuperação após queda, volume baixo não dá forte convicção.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda com volume baixo, ainda em lateralização.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Continuação da queda, volume moderado, cautela.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda com volume baixo, mantendo o viés de baixa.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Recuperação moderada, preço ainda em área de indefinição.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Forte reversão intradiária com volume muito alto, indicando exaustão da alta.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Continuação da baixa, mas sem o volume do dia anterior.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequeno repique com volume muito baixo, sem convicção.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estagnado, aguardando direção clara.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena variação, mercado lateral.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta de preço com volume crescente, indicando reversão.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena correção com volume similar, sem quebrar a alta.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Continuação da alta, volume não tão forte, mas o momentum é positivo.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta com volume decrescente, mostra desaceleração do momentum.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Continuação da alta discreta, volume moderado.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte rompimento de nível de preço com volume crescente.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Continuação da alta, mas com volume decrescente, pode indicar fadiga.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Leve recuo de preço, sem sinais de reversão.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda moderada com volume crescente, cautela.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda acentuada com volume expressivo, indicando pressão vendedora.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Recuperação após forte queda, mas o volume alto sugere volatilidade.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta com volume sustentado, indicando retorno do otimismo.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Realização de lucros com volume menor, tendência de alta ainda não quebrada.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Consolidação do preço com volume reduzido.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta com volume baixo, sem força direcional.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Continuação da lateralização, volume fraco.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Consolidação com volume baixo, sem decisão.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta com volume moderado, ainda na lateralização.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume baixo, sem alteração de cenário.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Recuperação modesta, sem força para reverter.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Consolidação do preço com volume reduzido.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável, volume baixo.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta, volume baixo.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Continuação da lateralização.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve, sem força de venda.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Forte queda com volume alto, rompendo suporte.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequeno repique com volume baixo, sem convicção.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda discreta, mantendo viés de baixa.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta com volume baixo.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve, sem direção clara.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda discreta, sem momentum.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta com volume alto, indicando reversão.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda com volume baixo, consolidando alta.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Forte queda com volume alto, revertendo o otimismo.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Continuação da queda com volume alto.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Recuperação com volume menor, ainda em correção.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta, sem força.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda discreta, sem rompimento.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta com volume baixo.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Boa alta com volume crescente, indicando força.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Leve queda após alta, sem mudar a tendência.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda, volume baixo, consolidação.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta de preço com volume crescente.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Leve realização de lucros, sem quebrar a tendência de alta.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena recuperação com volume moderado.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Consolidação de preço, volume menor.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve, sem volume significativo.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta, volume baixo.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Continuação da lateralização.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve, sem força.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável, volume baixo.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda discreta, volume menor.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta com volume crescente, mas ainda sem clareza.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Consolidação dos ganhos, volume estável.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Continuação da lateralização, volume baixo.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta com volume baixo.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta com volume crescente, indicando força.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena correção de preço, volume similar.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Continuação da alta, mas com volume decrescente.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta, volume baixo, desaceleração.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta com volume em alta.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Alta de preço com volume crescente, rompendo resistência.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Continuação forte da alta com volume elevado.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Leve queda com volume alto, indicando realização de lucros.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Leve recuperação com volume menor, ainda em correção.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda acentuada com volume alto, indicando pressão vendedora.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda acentuada com volume elevado, reforçando a tendência de baixa.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Forte queda com volume muito alto, confirmando pressão vendedora.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda contínua com volume alto, tendência de baixa forte.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda com volume elevado, confirmando pessimismo.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda acentuada com volume alto, pânico no mercado.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Forte recuperação, mas sem volume para reverter o cenário extremo.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda do preço com volume alto, mostrando volatilidade.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Forte queda com volume muito alto, rompendo níveis de suporte.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Recuperação leve após grande queda, cautela.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável após forte volatilidade.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda com volume baixo, sem força.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta, ainda sem direção.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta com volume alto, indicando reversão.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Continuação da alta com volume crescente, forte momentum.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Consolidação do preço, volume alto mas sem nova direção clara.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda com volume menor, realização de lucros.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena recuperação, sem força.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte recuperação com volume crescente, indicando força compradora.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Leve queda, com volume baixo.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta com volume menor, consolidação.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta, rompendo patamar com volume.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda com volume baixo, pequena correção.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta, volume menor.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta com volume decente.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda, volume similar, indecisão.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda com volume menor.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Consolidação.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve, sem força vendedora.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena recuperação, volume baixo.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta com volume baixo.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Lateralização do preço com volume.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta, volume decente.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Indecisão com volume alto.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve, volume diminui.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta, volume baixo.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável, volume baixo.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda discreta, volume menor.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta com volume crescente.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda com volume alto, indicando pressão vendedora.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Recuperação leve com volume baixo.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta com volume elevado, rompendo resistência.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Continuação da alta com volume sustentado.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta, rompendo patamar de preço com volume.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena correção, volume baixo.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta com volume decente, otimismo.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda discreta, volume menor.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta, volume fraco.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta com volume crescente, indicando força.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte continuação da alta com volume elevado.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Ganho menor com volume reduzido, pode ser fadiga.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda leve com volume similar, realização.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Forte queda com volume alto, indicando reversão.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte recuperação com volume muito alto, indicando fundo.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Continuação da recuperação, volume mais baixo.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta, volume menor, consolidação.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta com volume crescente, confirmando reversão.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Continuação da alta, com volume em crescimento.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Forte queda com volume alto, realização de lucros.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Recuperação leve, volume menor, volatilidade.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta com volume crescente, indicando retorno do otimismo.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta, volume menor.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda acentuada com volume alto, indicando pressão vendedora.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequeno repique, volume menor, sem força.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta com volume bom, indicando recuperação.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequeno ganho, volume menor.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Forte queda, volume alto, revertendo o movimento.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Continuação da queda, volume menor, cautela.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Forte queda com volume crescente, reforçando a tendência de baixa.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Continuação da queda, volume moderado.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Continuação da queda com volume elevado.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda acentuada, com volume crescente, forte pressão.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena recuperação com volume menor, ainda em baixa.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta, volume baixo.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Lateralização com volume alto, indecisão.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Boa recuperação de preço com volume decente.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Leve queda após alta, volume similar.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Leve queda, volume menor.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta com volume crescente, indicando força.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Forte queda com volume muito alto, reversão agressiva.
+
+Ticker: PETR4.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Continuação da queda com volume menor.

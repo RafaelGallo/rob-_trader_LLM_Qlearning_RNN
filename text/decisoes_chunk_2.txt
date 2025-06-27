@@ -1,0 +1,4511 @@
+Aqui estão as decisões para cada linha, agindo como um agente financeiro especialista em ações, com base na análise dos dados fornecidos:
+
+Ticker: VALE3.SA
+Data: 2014-01-17
+Decisão: MANTER
+Justificativa: Primeira entrada, sem histórico para análise.
+
+Ticker: VALE3.SA
+Data: 2014-01-20
+Decisão: MANTER
+Justificativa: Tendência de baixa se acentua com volume reduzido.
+
+Ticker: VALE3.SA
+Data: 2014-01-21
+Decisão: MANTER
+Justificativa: Pequena recuperação de volume, mas tendência de baixa persiste.
+
+Ticker: VALE3.SA
+Data: 2014-01-22
+Decisão: COMPRAR
+Justificativa: Reversão de tendência com volume crescente, indicando força.
+
+Ticker: VALE3.SA
+Data: 2014-01-23
+Decisão: VENDER
+Justificativa: Queda acentuada com alto volume, invalidando recuperação anterior.
+
+Ticker: VALE3.SA
+Data: 2014-01-24
+Decisão: MANTER
+Justificativa: Volatilidade alta, sem direção clara após forte queda.
+
+Ticker: VALE3.SA
+Data: 2014-01-27
+Decisão: MANTER
+Justificativa: Consolidação, volume fraco, aguardar sinal.
+
+Ticker: VALE3.SA
+Data: 2014-01-28
+Decisão: MANTER
+Justificativa: Pequeno avanço, mas sem convicção para ação.
+
+Ticker: VALE3.SA
+Data: 2014-01-29
+Decisão: COMPRAR
+Justificativa: Forte alta com volume expressivo, indicando início de rali.
+
+Ticker: VALE3.SA
+Data: 2014-01-30
+Decisão: MANTER
+Justificativa: Pequena correção após forte alta, volume menor.
+
+Ticker: VALE3.SA
+Data: 2014-01-31
+Decisão: MANTER
+Justificativa: Mantém-se acima dos 21, consolidando ganhos.
+
+Ticker: VALE3.SA
+Data: 2014-02-03
+Decisão: MANTER
+Justificativa: Correção continua, sem sinal de venda forte.
+
+Ticker: VALE3.SA
+Data: 2014-02-04
+Decisão: MANTER
+Justificativa: Recuperação leve com baixo volume, cautela.
+
+Ticker: VALE3.SA
+Data: 2014-02-05
+Decisão: COMPRAR
+Justificativa: Retomada da alta com volume forte, bom sinal.
+
+Ticker: VALE3.SA
+Data: 2014-02-06
+Decisão: MANTER
+Justificativa: Continuação do movimento de alta, consolidando ganhos.
+
+Ticker: VALE3.SA
+Data: 2014-02-07
+Decisão: MANTER
+Justificativa: Pequena correção com volume reduzido.
+
+Ticker: VALE3.SA
+Data: 2014-02-10
+Decisão: MANTER
+Justificativa: Continua a correção, sem perda de suporte.
+
+Ticker: VALE3.SA
+Data: 2014-02-11
+Decisão: MANTER
+Justificativa: Reversão positiva, sinal de força.
+
+Ticker: VALE3.SA
+Data: 2014-02-12
+Decisão: MANTER
+Justificativa: Pequena oscilação, tendência de alta intacta.
+
+Ticker: VALE3.SA
+Data: 2014-02-13
+Decisão: MANTER
+Justificativa: Consolidação em patamar elevado, sem gatilho.
+
+Ticker: VALE3.SA
+Data: 2014-02-14
+Decisão: MANTER
+Justificativa: Retomada da alta, bom momento.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena correção com volume muito baixo.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Oscilação, volume de venda maior, mas sem ruptura.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Recuperação após pequena queda, sinal neutro.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda com volume moderado.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Indecisão com volume baixo, sem clareza.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda significativa rompendo suporte, potencial reversão.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Continuação da tendência de baixa.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estagnado, aguardar sinal de reversão.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena recuperação com volume fraco.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Volume alto em dia lateral, sem clareza.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda persistente, manter posição de espera.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Tendência de baixa confirmada, sem sinal de compra.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Forte queda, quebra de suporte psicológico.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Reação em volume, mas tendência de baixa ativa.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda persistente, sem recuperação convincente.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena recuperação, mas ainda volátil.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Retomada da queda, sinal de fraqueza.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Continuação da leve queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Indecisão com volume baixo.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Sinal de recuperação incipiente.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Recuo após tentativa de recuperação.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Movimento lateral, aguardando definição.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta, superando resistência e indicando recuperação.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena correção em dia de baixo volume.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Consolidação em novo patamar de preço.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Reversão da alta, com queda significativa.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Tentativa de recuperação após queda, incerto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Indecisão e oscilação, sem direção clara.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequeno avanço, sem convicção para compra.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Leve recuo, sem alteração de cenário.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta com volume massivo, sinal de reversão.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Continuação da alta, consolidando o movimento.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Leve correção após alta, ainda em tendência ascendente.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Retomada da alta, volume fraco.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequeno recuo, volume aumentando, atenção.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Continuação da correção.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequenas quedas com volume baixo, sem pânico.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Reação positiva após quedas leves.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Oscilação, sem quebrar tendência.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda acentuada com volume alto, indicando reversão de tendência.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Reação fraca após forte queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena recuperação em baixo volume.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Retomada da queda, sinal de fraqueza.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda persistente, sem sinais de recuperação.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena recuperação, mas tendência de baixa.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Volatilidade em baixa, sem gatilho.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda continua, sem sinal de compra.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Indecisão em baixo patamar.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Volume elevado, mas ainda em patamar de baixa.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte recuperação com volume, indicando reversão.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Leve correção com volume baixo.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Correção se estende, mas ainda dentro da faixa.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Consolidação, sem mudança na tendência recente.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda forte, rompendo suporte de curto prazo.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Continuação da tendência de baixa.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte reversão com volume, sinal de fundo.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequeno avanço, consolidando ganhos.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Continuação da alta, bom momentum.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena correção com volume baixo.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda significativa rompendo suporte psicológico.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Continuação da queda, sem sinal de compra.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Tendência de baixa persistente.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequeno repique, ainda em baixa.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Recuperação leve, mas sem convicção no volume.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequeno recuo, sem quebrar o padrão.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Sinal de compra fraco, volume muito baixo.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda persistente, sem sinal de compra.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Estabilidade em patamar baixo, indecisão.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta, mas sem convicção no volume.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Forte queda, rompendo suporte e mantendo baixa.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Reação técnica, mas ainda em tendência de baixa.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Volatilidade, sem clareza.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequeno ganho, sem sinal forte.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Indecisão, sem direção definida.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta com volume, rompendo resistência.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Continuação do rali, consolidando ganhos.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Leve correção, sem preocupação.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Movimento lateral de curto prazo.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda acentuada, anulando ganhos recentes.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Continuação da queda, sem sinal de reversão.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequeno repique em baixo volume.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Sinais de recuperação com volume crescente.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Correção menor com volume fraco.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Preço estável em volume moderado.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Reversão de preço com queda e volume aumentado.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequeno repique sem convicção de volume.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta com volume, indicando recuperação.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Correção natural com volume baixo.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Indecisão em volume moderado.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Continuação do movimento de alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Forte alta, mantendo o momentum.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Continuação da alta, rompendo resistência.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Consolidação em volume muito baixo.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena correção, sem ameaça à tendência.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Indecisão com volume baixo.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Consolidação apertada, sem direção.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda, sem alarme.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Oscilação, sem força para alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena recuperação, volume baixo.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Retomada da alta com volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Correção saudável em volume menor.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Continuação da correção.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Estabilização em baixo volume.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Retomada gradual da alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena oscilação, sem impacto na tendência.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Continuação da alta, bom sinal.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Consolidação em alta com volume baixo.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Continuação da alta com volume bom.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Indecisão em volume baixo.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda significativa rompendo suporte.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Reação técnica, mas tendência de baixa.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Retomada da queda, sem sinal de compra.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena recuperação com volume fraco.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda persistente, sem recuperação forte.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequeno avanço em volume baixo.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Indecisão e volume fraco.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Consolidação em patamar baixo.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Volatilidade, sem sinal de compra claro.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta, sem momentum.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Retomada da queda, cautela.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Forte tendência de baixa.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena recuperação, mas volume fraco.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Recuperação lenta em baixo volume.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequeno avanço, sem força de compra.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Sequência de altas com volume crescente, indicando reversão.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena correção pós-alta, volume moderado.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Continuação da correção com volume muito baixo.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Queda persistente, rompendo recuperação recente.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Continuação da queda, sem sinal de compra.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Tendência de baixa mantida.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Forte queda, pânico no mercado, aguardar.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Continuação da forte tendência de baixa.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Volume muito baixo na queda, possível exaustão.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda persiste, sem reversão.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Reversão com volume forte após queda, bom sinal.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena correção com volume menor.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Forte queda com volume expressivo, rompendo suporte.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Continuação da queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte recuperação com volume, indicando potencial reversão.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Leve correção, ainda na faixa de alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Correção se estende com volume fraco.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Forte alta com volume, confirmação de tendência.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Continuação da alta, volume menor.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta, mantendo a tendência.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Leve correção em baixa volatilidade.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena recuperação.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Forte queda, rompendo suporte e invalidando alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Forte continuação da tendência de baixa.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena recuperação, mas volume não convincente.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Consolidação em patamar baixo.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequeno recuo, sem impacto no cenário.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Tendência de baixa se intensifica.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequeno repique, mas ainda sem força.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Reversão incipiente, aguardando confirmação.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Consolidação em patamar de recuperação.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta, rompendo resistência e indicando recuperação.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Correção saudável em volume baixo.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Rejeição de preço com volume alto, sinal de fraqueza.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequeno repique, sem força de reversão.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda persiste, sem sinais de compra.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Forte queda, tendência de baixa confirmada.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Indecisão em baixo patamar, sem clareza.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta com volume, indicando reversão.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Continuação da alta, bom momento.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Consolidação em patamar alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Forte queda com volume alto, rompendo suporte.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Recuperação fraca, volume ainda alto para queda.
+
+Ticker: VALE3.SA
+Data: 2014-10-20
+Decisão: MANTER
+Justificativa: Estabilidade em baixa, sem sinal claro.
+
+Ticker: VALE3.SA
+Data: 2014-10-21
+Decisão: MANTER
+Justificativa: Volume elevado com preço lateral, aguardar.
+
+Ticker: VALE3.SA
+Data: 2014-10-22
+Decisão: MANTER
+Justificativa: Pequeno avanço em volume moderado.
+
+Ticker: VALE3.SA
+Data: 2014-10-23
+Decisão: COMPRAR
+Justificativa: Forte alta com volume, rompendo resistência.
+
+Ticker: VALE3.SA
+Data: 2014-10-24
+Decisão: MANTER
+Justificativa: Continuação do rali, bom momento.
+
+Ticker: VALE3.SA
+Data: 2014-10-27
+Decisão: VENDER
+Justificativa: Forte queda com volume massivo, reversão de tendência.
+
+Ticker: VALE3.SA
+Data: 2014-10-28
+Decisão: MANTER
+Justificativa: Continuação da queda, sem sinal de compra.
+
+Ticker: VALE3.SA
+Data: 2014-10-29
+Decisão: MANTER
+Justificativa: Forte queda, indicando pânico.
+
+Ticker: VALE3.SA
+Data: 2014-10-30
+Decisão: MANTER
+Justificativa: Queda persistente, rumo a novos mínimos.
+
+Ticker: VALE3.SA
+Data: 2014-10-31
+Decisão: COMPRAR
+Justificativa: Forte alta após queda acentuada, sinal de reversão.
+
+Ticker: VALE3.SA
+Data: 2014-11-03
+Decisão: MANTER
+Justificativa: Consolidação em patamar de recuperação.
+
+Ticker: VALE3.SA
+Data: 2014-11-04
+Decisão: VENDER
+Justificativa: Queda significativa, revertendo recuperação.
+
+Ticker: VALE3.SA
+Data: 2014-11-05
+Decisão: MANTER
+Justificativa: Tentativa de recuperação, sem força.
+
+Ticker: VALE3.SA
+Data: 2014-11-06
+Decisão: MANTER
+Justificativa: Queda persistente, sem sinal de compra.
+
+Ticker: VALE3.SA
+Data: 2014-11-07
+Decisão: MANTER
+Justificativa: Pequena recuperação em baixo volume.
+
+Ticker: VALE3.SA
+Data: 2014-11-10
+Decisão: MANTER
+Justificativa: Queda acentuada, mantendo o viés de baixa.
+
+Ticker: VALE3.SA
+Data: 2014-11-11
+Decisão: MANTER
+Justificativa: Continuação da queda, volume elevado.
+
+Ticker: VALE3.SA
+Data: 2014-11-12
+Decisão: MANTER
+Justificativa: Queda persistente, sem reação.
+
+Ticker: VALE3.SA
+Data: 2014-11-13
+Decisão: MANTER
+Justificativa: Queda em patamares baixos, sem sinal.
+
+Ticker: VALE3.SA
+Data: 2014-11-14
+Decisão: COMPRAR
+Justificativa: Forte alta após múltiplas quedas, possível reversão.
+
+Ticker: VALE3.SA
+Data: 2014-11-17
+Decisão: MANTER
+Justificativa: Consolidação em patamar de recuperação.
+
+Ticker: VALE3.SA
+Data: 2014-11-18
+Decisão: VENDER
+Justificativa: Forte queda com volume alto, rompendo suporte.
+
+Ticker: VALE3.SA
+Data: 2014-11-19
+Decisão: MANTER
+Justificativa: Pequena recuperação, mas tendência de baixa.
+
+Ticker: VALE3.SA
+Data: 2014-11-21
+Decisão: COMPRAR
+Justificativa: Forte alta com volume expressivo, indicando recuperação.
+
+Ticker: VALE3.SA
+Data: 2014-11-24
+Decisão: MANTER
+Justificativa: Pequena correção, mas tendência de alta mantida.
+
+Ticker: VALE3.SA
+Data: 2014-11-25
+Decisão: MANTER
+Justificativa: Consolidação em patamar elevado.
+
+Ticker: VALE3.SA
+Data: 2014-11-26
+Decisão: VENDER
+Justificativa: Forte queda, revertendo ganhos recentes.
+
+Ticker: VALE3.SA
+Data: 2014-11-27
+Decisão: MANTER
+Justificativa: Continuação da queda em volume baixo.
+
+Ticker: VALE3.SA
+Data: 2014-11-28
+Decisão: MANTER
+Justificativa: Estabilidade em baixa, sem recuperação forte.
+
+Ticker: VALE3.SA
+Data: 2014-12-01
+Decisão: MANTER
+Justificativa: Forte queda com volume extremamente alto.
+
+Ticker: VALE3.SA
+Data: 2014-12-02
+Decisão: MANTER
+Justificativa: Continuação da queda com volume elevado.
+
+Ticker: VALE3.SA
+Data: 2014-12-03
+Decisão: MANTER
+Justificativa: Recuperação leve após fortes quedas.
+
+Ticker: VALE3.SA
+Data: 2014-12-04
+Decisão: MANTER
+Justificativa: Pequeno recuo, sem quebrar tendência.
+
+Ticker: VALE3.SA
+Data: 2014-12-05
+Decisão: MANTER
+Justificativa: Pequena alta, volume moderado.
+
+Ticker: VALE3.SA
+Data: 2014-12-08
+Decisão: MANTER
+Justificativa: Queda significativa, mantendo tendência de baixa.
+
+Ticker: VALE3.SA
+Data: 2014-12-09
+Decisão: COMPRAR
+Justificativa: Forte recuperação após queda acentuada.
+
+Ticker: VALE3.SA
+Data: 2014-12-10
+Decisão: MANTER
+Justificativa: Recuo em volume moderado, testando suporte.
+
+Ticker: VALE3.SA
+Data: 2014-12-11
+Decisão: MANTER
+Justificativa: Continuação da queda, sem força de compra.
+
+Ticker: VALE3.SA
+Data: 2014-12-12
+Decisão: MANTER
+Justificativa: Queda persistente, sem sinal de fundo.
+
+Ticker: VALE3.SA
+Data: 2014-12-15
+Decisão: MANTER
+Justificativa: Queda continua, sem reação.
+
+Ticker: VALE3.SA
+Data: 2014-12-16
+Decisão: COMPRAR
+Justificativa: Forte recuperação com alto volume, potencial reversão.
+
+Ticker: VALE3.SA
+Data: 2014-12-17
+Decisão: MANTER
+Justificativa: Continuação da alta, volume forte.
+
+Ticker: VALE3.SA
+Data: 2014-12-18
+Decisão: MANTER
+Justificativa: Pequena correção, consolidando ganhos.
+
+Ticker: VALE3.SA
+Data: 2014-12-19
+Decisão: MANTER
+Justificativa: Forte alta, mantendo o momentum.
+
+Ticker: VALE3.SA
+Data: 2014-12-22
+Decisão: MANTER
+Justificativa: Pequena correção, sem ameaça à tendência.
+
+Ticker: VALE3.SA
+Data: 2014-12-23
+Decisão: MANTER
+Justificativa: Retomada da alta, bom sinal.
+
+Ticker: VALE3.SA
+Data: 2014-12-26
+Decisão: MANTER
+Justificativa: Pequena correção em baixo volume.
+
+Ticker: VALE3.SA
+Data: 2014-12-29
+Decisão: MANTER
+Justificativa: Recuperação leve, sem convicção.
+
+Ticker: VALE3.SA
+Data: 2014-12-30
+Decisão: MANTER
+Justificativa: Pequena queda, mas dentro da consolidação.
+
+Ticker: VALE3.SA
+Data: 2015-01-02
+Decisão: MANTER
+Justificativa: Continuação da queda.
+
+Ticker: VALE3.SA
+Data: 2015-01-05
+Decisão: COMPRAR
+Justificativa: Recuperação após queda, buscando suporte.
+
+Ticker: VALE3.SA
+Data: 2015-01-06
+Decisão: MANTER
+Justificativa: Continuação da alta com volume forte.
+
+Ticker: VALE3.SA
+Data: 2015-01-07
+Decisão: MANTER
+Justificativa: Continuação da alta.
+
+Ticker: VALE3.SA
+Data: 2015-01-08
+Decisão: MANTER
+Justificativa: Pequeno avanço, mantendo ganhos.
+
+Ticker: VALE3.SA
+Data: 2015-01-09
+Decisão: MANTER
+Justificativa: Leve correção, sem preocupação.
+
+Ticker: VALE3.SA
+Data: 2015-01-12
+Decisão: MANTER
+Justificativa: Recuperação do preço, mantendo o viés de alta.
+
+Ticker: VALE3.SA
+Data: 2015-01-13
+Decisão: MANTER
+Justificativa: Pequena correção em volume elevado.
+
+Ticker: VALE3.SA
+Data: 2015-01-14
+Decisão: VENDER
+Justificativa: Forte queda com volume alto, indicando reversão.
+
+Ticker: VALE3.SA
+Data: 2015-01-15
+Decisão: MANTER
+Justificativa: Pequeno repique, mas sem força de recuperação.
+
+Ticker: VALE3.SA
+Data: 2015-01-16
+Decisão: MANTER
+Justificativa: Recuperação em volume moderado.
+
+Ticker: VALE3.SA
+Data: 2015-01-19
+Decisão: MANTER
+Justificativa: Pequeno avanço.
+
+Ticker: VALE3.SA
+Data: 2015-01-20
+Decisão: MANTER
+Justificativa: Pequena queda, sem impacto na tendência.
+
+Ticker: VALE3.SA
+Data: 2015-01-21
+Decisão: MANTER
+Justificativa: Pequena recuperação.
+
+Ticker: VALE3.SA
+Data: 2015-01-22
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: 2015-01-23
+Decisão: MANTER
+Justificativa: Forte queda, pânico no mercado.
+
+Ticker: VALE3.SA
+Data: 2015-01-26
+Decisão: MANTER
+Justificativa: Continuação da queda.
+
+Ticker: VALE3.SA
+Data: 2015-01-27
+Decisão: MANTER
+Justificativa: Queda persistente.
+
+Ticker: VALE3.SA
+Data: 2015-01-28
+Decisão: MANTER
+Justificativa: Pequena recuperação em volume reduzido.
+
+Ticker: VALE3.SA
+Data: 2015-01-29
+Decisão: MANTER
+Justificativa: Forte queda com volume alto.
+
+Ticker: VALE3.SA
+Data: 2015-01-30
+Decisão: COMPRAR
+Justificativa: Forte recuperação após queda acentuada, possível fundo.
+
+Ticker: VALE3.SA
+Data: 2015-02-02
+Decisão: MANTER
+Justificativa: Continuação da alta, bom sinal.
+
+Ticker: VALE3.SA
+Data: 2015-02-03
+Decisão: MANTER
+Justificativa: Continuação da alta com volume forte.
+
+Ticker: VALE3.SA
+Data: 2015-02-04
+Decisão: MANTER
+Justificativa: Pequena correção, volume moderado.
+
+Ticker: VALE3.SA
+Data: 2015-02-05
+Decisão: MANTER
+Justificativa: Pequena queda, sem preocupação.
+
+Ticker: VALE3.SA
+Data: 2015-02-06
+Decisão: MANTER
+Justificativa: Pequena recuperação, mantendo o nível.
+
+Ticker: VALE3.SA
+Data: 2015-02-09
+Decisão: MANTER
+Justificativa: Forte alta, mantendo o momentum.
+
+Ticker: VALE3.SA
+Data: 2015-02-10
+Decisão: MANTER
+Justificativa: Correção com volume elevado, mas sem perder suporte.
+
+Ticker: VALE3.SA
+Data: 2015-02-11
+Decisão: MANTER
+Justificativa: Recuperação significativa.
+
+Ticker: VALE3.SA
+Data: 2015-02-12
+Decisão: MANTER
+Justificativa: Pequena queda, sem impactar a alta.
+
+Ticker: VALE3.SA
+Data: 2015-02-13
+Decisão: MANTER
+Justificativa: Continuação da alta, bom momento.
+
+Ticker: VALE3.SA
+Data: 2015-02-18
+Decisão: MANTER
+Justificativa: Estabilidade em patamar elevado.
+
+Ticker: VALE3.SA
+Data: 2015-02-19
+Decisão: VENDER
+Justificativa: Queda significativa com volume alto, indicando reversão.
+
+Ticker: VALE3.SA
+Data: 2015-02-20
+Decisão: MANTER
+Justificativa: Pequena recuperação em volume baixo.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda persistente, sem sinal de compra.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena recuperação, mas sem força.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta, mantendo a consolidação.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda significativa, mantendo tendência de baixa.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Continuação da queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Forte queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena recuperação em volume moderado.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda continua, sem reação.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Forte queda com volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena recuperação em volume elevado.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Estabilidade em patamar de baixa.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Forte queda com volume elevado.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda persistente com volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte recuperação com volume elevado, potencial reversão.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena recuperação, volume moderado.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Forte alta, mantendo o momentum.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta, volume elevado.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda, sem impacto na tendência.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Forte alta com volume expressivo.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Continuação da alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena correção em volume moderado.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena recuperação.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Forte queda com volume alto, indicando reversão.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Continuação da queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda persistente.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Forte queda, sem sinal de recuperação.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda contínua, volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Recuperação com volume alto após queda forte.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda, consolidando ganhos.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena recuperação, sem força.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda, sem impacto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Recuperação leve, sem convicção.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Estabilidade em baixa.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta com volume, indicando reversão.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Forte alta com volume expressivo.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Forte alta com volume massivo, mantendo momentum.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Continuação da alta com volume elevado.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Correção em volume alto, cautela.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda persistente.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Forte recuperação com volume elevado.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Forte alta, consolidando ganhos.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Forte alta, mantendo o momentum.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Forte queda com volume expressivo, reversão.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda persiste.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena recuperação, sem força.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda acentuada, mantendo tendência de baixa.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena recuperação.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena recuperação.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda significativa.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena recuperação.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena recuperação.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta com volume, indicando reversão.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Forte alta com volume expressivo.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Forte alta com volume massivo.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Continuação da alta, volume elevado.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Correção em volume alto.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda persistente.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Forte alta com volume, indicando recuperação.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Forte alta, consolidando ganhos.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Forte alta, mantendo o momentum.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Forte queda com volume expressivo, reversão de tendência.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda persiste.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena recuperação, sem força.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: 2015-10-19
+Decisão: MANTER
+Justificativa: Queda significativa.
+
+Ticker: VALE3.SA
+Data: 2015-10-20
+Decisão: MANTER
+Justificativa: Continuação da queda.
+
+Ticker: VALE3.SA
+Data: 2015-10-21
+Decisão: MANTER
+Justificativa: Pequena recuperação.
+
+Ticker: VALE3.SA
+Data: 2015-10-22
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: 2015-10-23
+Decisão: MANTER
+Justificativa: Pequena queda após alta.
+
+Ticker: VALE3.SA
+Data: 2015-10-26
+Decisão: MANTER
+Justificativa: Continuação da queda.
+
+Ticker: VALE3.SA
+Data: 2015-10-27
+Decisão: MANTER
+Justificativa: Forte queda.
+
+Ticker: VALE3.SA
+Data: 2015-10-28
+Decisão: MANTER
+Justificativa: Queda persistente.
+
+Ticker: VALE3.SA
+Data: 2015-10-29
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: 2015-10-30
+Decisão: COMPRAR
+Justificativa: Recuperação após queda acentuada.
+
+Ticker: VALE3.SA
+Data: 2015-11-03
+Decisão: MANTER
+Justificativa: Continuação da alta.
+
+Ticker: VALE3.SA
+Data: 2015-11-04
+Decisão: VENDER
+Justificativa: Queda significativa, revertendo ganhos.
+
+Ticker: VALE3.SA
+Data: 2015-11-05
+Decisão: MANTER
+Justificativa: Pequena queda, sem impacto.
+
+Ticker: VALE3.SA
+Data: 2015-11-06
+Decisão: MANTER
+Justificativa: Forte queda.
+
+Ticker: VALE3.SA
+Data: 2015-11-09
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: 2015-11-10
+Decisão: MANTER
+Justificativa: Estabilidade.
+
+Ticker: VALE3.SA
+Data: 2015-11-11
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: 2015-11-12
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: 2015-11-13
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: 2015-11-16
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: 2015-11-17
+Decisão: MANTER
+Justificativa: Queda significativa.
+
+Ticker: VALE3.SA
+Data: 2015-11-18
+Decisão: MANTER
+Justificativa: Pequena recuperação.
+
+Ticker: VALE3.SA
+Data: 2015-11-19
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: 2015-11-23
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: 2015-11-24
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: 2015-11-25
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: 2015-11-26
+Decisão: MANTER
+Justificativa: Estabilidade.
+
+Ticker: VALE3.SA
+Data: 2015-11-27
+Decisão: MANTER
+Justificativa: Forte queda.
+
+Ticker: VALE3.SA
+Data: 2015-11-30
+Decisão: COMPRAR
+Justificativa: Recuperação após forte queda, alto volume.
+
+Ticker: VALE3.SA
+Data: 2015-12-01
+Decisão: MANTER
+Justificativa: Pequena queda, sem impacto.
+
+Ticker: VALE3.SA
+Data: 2015-12-02
+Decisão: MANTER
+Justificativa: Pequena recuperação.
+
+Ticker: VALE3.SA
+Data: 2015-12-03
+Decisão: MANTER
+Justificativa: Estabilidade.
+
+Ticker: VALE3.SA
+Data: 2015-12-04
+Decisão: MANTER
+Justificativa: Queda significativa.
+
+Ticker: VALE3.SA
+Data: 2015-12-07
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: 2015-12-08
+Decisão: MANTER
+Justificativa: Queda persistente.
+
+Ticker: VALE3.SA
+Data: 2015-12-09
+Decisão: MANTER
+Justificativa: Pequena recuperação.
+
+Ticker: VALE3.SA
+Data: 2015-12-10
+Decisão: MANTER
+Justificativa: Forte recuperação, volume alto.
+
+Ticker: VALE3.SA
+Data: 2015-12-11
+Decisão: MANTER
+Justificativa: Pequena queda, consolidando ganhos.
+
+Ticker: VALE3.SA
+Data: 2015-12-14
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: 2015-12-15
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: 2015-12-16
+Decisão: MANTER
+Justificativa: Forte alta.
+
+Ticker: VALE3.SA
+Data: 2015-12-17
+Decisão: VENDER
+Justificativa: Forte queda após alta, sinal de reversão.
+
+Ticker: VALE3.SA
+Data: 2015-12-18
+Decisão: MANTER
+Justificativa: Recuperação em volume alto.
+
+Ticker: VALE3.SA
+Data: 2015-12-21
+Decisão: MANTER
+Justificativa: Forte queda.
+
+Ticker: VALE3.SA
+Data: 2015-12-22
+Decisão: MANTER
+Justificativa: Pequena recuperação.
+
+Ticker: VALE3.SA
+Data: 2015-12-23
+Decisão: MANTER
+Justificativa: Forte alta.
+
+Ticker: VALE3.SA
+Data: 2015-12-28
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: 2015-12-29
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: 2015-12-30
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: 2016-01-04
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: 2016-01-05
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: 2016-01-06
+Decisão: MANTER
+Justificativa: Forte queda.
+
+Ticker: VALE3.SA
+Data: 2016-01-07
+Decisão: MANTER
+Justificativa: Queda persistente.
+
+Ticker: VALE3.SA
+Data: 2016-01-08
+Decisão: MANTER
+Justificativa: Queda persistente.
+
+Ticker: VALE3.SA
+Data: 2016-01-11
+Decisão: MANTER
+Justificativa: Queda persistente.
+
+Ticker: VALE3.SA
+Data: 2016-01-12
+Decisão: MANTER
+Justificativa: Forte queda.
+
+Ticker: VALE3.SA
+Data: 2016-01-13
+Decisão: MANTER
+Justificativa: Forte queda.
+
+Ticker: VALE3.SA
+Data: 2016-01-14
+Decisão: COMPRAR
+Justificativa: Recuperação forte com volume elevado, potencial fundo.
+
+Ticker: VALE3.SA
+Data: 2016-01-15
+Decisão: MANTER
+Justificativa: Continuação da recuperação.
+
+Ticker: VALE3.SA
+Data: 2016-01-18
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: 2016-01-19
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: 2016-01-20
+Decisão: MANTER
+Justificativa: Pequena recuperação.
+
+Ticker: VALE3.SA
+Data: 2016-01-21
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: 2016-01-22
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: 2016-01-26
+Decisão: MANTER
+Justificativa: Pequena recuperação.
+
+Ticker: VALE3.SA
+Data: 2016-01-27
+Decisão: MANTER
+Justificativa: Forte alta.
+
+Ticker: VALE3.SA
+Data: 2016-01-28
+Decisão: MANTER
+Justificativa: Pequena queda, consolidando ganhos.
+
+Ticker: VALE3.SA
+Data: 2016-01-29
+Decisão: MANTER
+Justificativa: Forte alta.
+
+Ticker: VALE3.SA
+Data: 2016-01-02
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: 2016-02-02
+Decisão: MANTER
+Justificativa: Forte queda.
+
+Ticker: VALE3.SA
+Data: 2016-02-03
+Decisão: MANTER
+Justificativa: Recuperação.
+
+Ticker: VALE3.SA
+Data: 2016-02-04
+Decisão: MANTER
+Justificativa: Forte alta com volume, bom sinal.
+
+Ticker: VALE3.SA
+Data: 2016-02-05
+Decisão: MANTER
+Justificativa: Pequena queda, consolidando ganhos.
+
+Ticker: VALE3.SA
+Data: 2016-02-10
+Decisão: MANTER
+Justificativa: Pequena recuperação.
+
+Ticker: VALE3.SA
+Data: 2016-02-11
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: 2016-02-12
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: 2016-02-15
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: 2016-02-16
+Decisão: MANTER
+Justificativa: Forte alta.
+
+Ticker: VALE3.SA
+Data: 2016-02-17
+Decisão: MANTER
+Justificativa: Forte alta.
+
+Ticker: VALE3.SA
+Data: 2016-02-18
+Decisão: MANTER
+Justificativa: Pequena queda, volume alto.
+
+Ticker: VALE3.SA
+Data: 2016-02-19
+Decisão: MANTER
+Justificativa: Pequena recuperação.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Forte alta com volume.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Forte queda, revertendo ganhos.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda persistente.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda persistente.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Forte alta, indicando recuperação.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Forte alta com volume.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Forte alta com volume massivo.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Estabilidade em patamar elevado.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: VENDER
+Justificativa: Forte queda, revertendo a alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda persistente.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Forte queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda persistente.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda persistente.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Queda persistente.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena recuperação.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta após queda, potencial reversão.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Continuação da alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Estabilidade.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Estabilidade.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: MANTER
+Justificativa: Estabilidade.
+
+Ticker: VALE3.SA
+Data: NaT
+Decisão: COMPRAR
+Justificativa: Forte alta com volume, sinal de recuperação.
+
+Ticker: VALE3.SA
+Data: 2017-10-16
+Decisão: MANTER
+Justificativa: Estabilidade em alta com volume elevado.
+
+Ticker: VALE3.SA
+Data: 2017-10-17
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: 2017-10-18
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: 2017-10-19
+Decisão: MANTER
+Justificativa: Forte alta.
+
+Ticker: VALE3.SA
+Data: 2017-10-20
+Decisão: MANTER
+Justificativa: Pequena queda, consolidando ganhos.
+
+Ticker: VALE3.SA
+Data: 2017-10-23
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: 2017-10-24
+Decisão: MANTER
+Justificativa: Forte alta.
+
+Ticker: VALE3.SA
+Data: 2017-10-25
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: 2017-10-26
+Decisão: MANTER
+Justificativa: Forte queda.
+
+Ticker: VALE3.SA
+Data: 2017-10-27
+Decisão: MANTER
+Justificativa: Pequena recuperação.
+
+Ticker: VALE3.SA
+Data: 2017-10-30
+Decisão: MANTER
+Justificativa: Pequena recuperação.
+
+Ticker: VALE3.SA
+Data: 2017-10-31
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: 2017-11-01
+Decisão: MANTER
+Justificativa: Estabilidade, alto volume.
+
+Ticker: VALE3.SA
+Data: 2017-11-02
+Decisão: MANTER
+Justificativa: Estabilidade (volume zero).
+
+Ticker: VALE3.SA
+Data: 2017-11-03
+Decisão: MANTER
+Justificativa: Forte alta, volume alto.
+
+Ticker: VALE3.SA
+Data: 2017-11-06
+Decisão: MANTER
+Justificativa: Continuação da alta.
+
+Ticker: VALE3.SA
+Data: 2017-11-07
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: 2017-11-08
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: 2017-11-09
+Decisão: MANTER
+Justificativa: Forte queda.
+
+Ticker: VALE3.SA
+Data: 2017-11-10
+Decisão: MANTER
+Justificativa: Estabilidade.
+
+Ticker: VALE3.SA
+Data: 2017-11-13
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: 2017-11-14
+Decisão: MANTER
+Justificativa: Forte queda.
+
+Ticker: VALE3.SA
+Data: 2017-11-15
+Decisão: MANTER
+Justificativa: Estabilidade (volume zero).
+
+Ticker: VALE3.SA
+Data: 2017-11-16
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: 2017-11-17
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: 2017-11-20
+Decisão: MANTER
+Justificativa: Estabilidade (volume zero).
+
+Ticker: VALE3.SA
+Data: 2017-11-21
+Decisão: COMPRAR
+Justificativa: Forte alta com volume, retomada.
+
+Ticker: VALE3.SA
+Data: 2017-11-22
+Decisão: MANTER
+Justificativa: Continuação da alta.
+
+Ticker: VALE3.SA
+Data: 2017-11-23
+Decisão: MANTER
+Justificativa: Continuação da alta.
+
+Ticker: VALE3.SA
+Data: 2017-11-24
+Decisão: MANTER
+Justificativa: Continuação da alta.
+
+Ticker: VALE3.SA
+Data: 2017-11-27
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: 2017-11-28
+Decisão: MANTER
+Justificativa: Forte alta.
+
+Ticker: VALE3.SA
+Data: 2017-11-29
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: 2017-11-30
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: 2017-12-01
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: 2017-12-04
+Decisão: MANTER
+Justificativa: Forte alta.
+
+Ticker: VALE3.SA
+Data: 2017-12-05
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: 2017-12-06
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: 2017-12-07
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: 2017-12-08
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: 2017-12-11
+Decisão: MANTER
+Justificativa: Estabilidade.
+
+Ticker: VALE3.SA
+Data: 2017-12-12
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: 2017-12-13
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: 2017-12-14
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: 2017-12-15
+Decisão: MANTER
+Justificativa: Forte alta.
+
+Ticker: VALE3.SA
+Data: 2017-12-18
+Decisão: MANTER
+Justificativa: Continuação da alta.
+
+Ticker: VALE3.SA
+Data: 2017-12-19
+Decisão: MANTER
+Justificativa: Estabilidade.
+
+Ticker: VALE3.SA
+Data: 2017-12-20
+Decisão: MANTER
+Justificativa: Forte alta.
+
+Ticker: VALE3.SA
+Data: 2017-12-21
+Decisão: MANTER
+Justificativa: Continuação da alta.
+
+Ticker: VALE3.SA
+Data: 2017-12-22
+Decisão: MANTER
+Justificativa: Continuação da alta.
+
+Ticker: VALE3.SA
+Data: 2017-12-25
+Decisão: MANTER
+Justificativa: Estabilidade (volume zero).
+
+Ticker: VALE3.SA
+Data: 2017-12-26
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: 2017-12-27
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: 2017-12-28
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: 2017-12-29
+Decisão: MANTER
+Justificativa: Estabilidade (volume zero).
+
+Ticker: VALE3.SA
+Data: 2018-01-02
+Decisão: COMPRAR
+Justificativa: Forte alta com volume, rompendo máximas.
+
+Ticker: VALE3.SA
+Data: 2018-01-03
+Decisão: MANTER
+Justificativa: Pequena queda, consolidando ganhos.
+
+Ticker: VALE3.SA
+Data: 2018-01-04
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: 2018-01-05
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: 2018-01-08
+Decisão: MANTER
+Justificativa: Continuação da alta.
+
+Ticker: VALE3.SA
+Data: 2018-01-09
+Decisão: MANTER
+Justificativa: Pequena queda, volume alto.
+
+Ticker: VALE3.SA
+Data: 2018-01-10
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: 2018-01-11
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: 2018-01-12
+Decisão: MANTER
+Justificativa: Pequena alta.
+
+Ticker: VALE3.SA
+Data: 2018-01-15
+Decisão: MANTER
+Justificativa: Pequena queda, volume baixo.
+
+Ticker: VALE3.SA
+Data: 2018-01-16
+Decisão: VENDER
+Justificativa: Forte queda com volume alto, rompendo suporte.
+
+Ticker: VALE3.SA
+Data: 2018-01-17
+Decisão: MANTER
+Justificativa: Recuperação em volume alto, mas incerta.
+
+Ticker: VALE3.SA
+Data: 2018-01-18
+Decisão: MANTER
+Justificativa: Pequena queda.
+
+Ticker: VALE3.SA
+Data: 2018-01-19
+Decisão: MANTER
+Justificativa: Pequena queda.
